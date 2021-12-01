@@ -1,0 +1,54 @@
+base de circulation :
+division de la grosse base
+tri des divisions par année, marque, modèle
+arrangement de quelques erreurs (MAZDA CX-5 pour l'instant)
+
+
+pour les petites bases d'émission :
+modification des bases ([...])
+affichage des émissions possibles
+étude de l'impact du cylindrée sur l'émission du modèle
+	-> Ca peut varier jusqu'au double donc c'est pas fou. Ecart maximal de 260 gCO2/km.
+
+circulation :
+etude de la correspondance avec le cylindree : c'est pas fou il va falloir regarder les différentes valeurs de cylindrée possibles dans les bases d'émission.
+l'ecart mini pour differencier deux cylindrees d'un meme modele......
+
+3 juillet 2020 :
+reecriture des fonctions de tri pour prendre en compte le nb de cylindres et le cylindree
+	dans l'ordre : année / marque / modèle / nb cylindres / cylindrée (les valeurs manquantes seront placées au-dessus)
+
+tri des bases d'émissions et des bases de circulation PAU avec la fonction précédente
+
+modification de la colone 18 (correspondance thermique exacte) le la base PAU0 (match de l'année, marque, modèle, nb cylindres, cylindrée)
+
+6 juillet 2020 :
+ecriture de la fonction de transfo generale pour la base d'emission
+transfo de toutes les MAZDA dans la base d'emission
+pour la prochaine fois:
+faire un fonction  qui, pour une meme marque,
+	regarder dans la circul et lister les modeles possibles
+	regarder dans l'emission les modeles de meme marque mais qui matchent pas
+	les afficher
+
+
+7 juillet :
+fonction decrite précédemment écrite, et faite tourner avec MAZDA.
+	Beaucoup de non matchs -> mise en attente en attendant de faire des tests sur la base de circulation
+
+a faire :
+	modifier la fonction de transfo generale pour ecrire un rapport a chaque fois en doc txt
+
+a faire :
+	lister tous les veh presents dans la base de circulation (sans se preoccuper des cylindrees et nb de cylindres pour l'instant)
+
+
+29 juillet :
+Tous les véhicules ont été regroupés dans les bases d'émission (sauf elec qui est toujours nulle).
+
+
+5 août :
+les correspondances classiques ont été faites, ainsi qu'un petit graphe qui montre la répartition des émissions de veh auu sein de la flotte
+Comptage des véhicules élec -> Il faut ajouter ceux pour lesquels on a pas d'infos encore !!
+	-> faire l'algo de rapprochement + ajouter une colonne pour dire exactement ce qu'on a fait
+Ensuite seulement on pourra s'occuper des bases mixtes.
