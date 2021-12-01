@@ -1,0 +1,16 @@
+import des bases...
+importé
+
+filtrage ADs dans base vehicules...
+fin
+
+emissions totales : 5.7943834738683035 Mtonnes de CO2
+
+on part de 5.7943834738683035 et on veut 2.31 (diminution de 60.13380870600449%)
+
+
+
+fin des calculs, nouvelle émission : 2.3099994360026215 Mtonnes, contre 5.7943834738683035 au départ, diminution de 60.133818439522834 % (60.13380870600449% voulu)
+
+
+1796324.208990023 veh changes contre 2862271.660153106 au depart, 62.75869037860423 % de vehicules changes

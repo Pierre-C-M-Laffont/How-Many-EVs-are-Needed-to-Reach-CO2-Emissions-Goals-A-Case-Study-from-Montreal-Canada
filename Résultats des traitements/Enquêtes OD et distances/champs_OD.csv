@@ -1,0 +1,27 @@
+champ,description,utilisation dans l'étude
+IPERE,identifiant unique du déplacement,Oui
+FEUILLET,numéro de ménage,Oui
+FACLOG,facteur d'expansion du ménage,Oui
+XDOMI,coordonnée X du domicile,Oui
+YDOMI,coordonnée Y du domicile,Oui
+RANG,numéro de la personnedu ménage,Oui
+NODEPLAC,numéro du déplacement,Oui
+SEQ_MODES,séquence des modes utilisés,Oui
+PERS_AUTO,nombre de personnes dans l'auto lors du trajet,Oui
+LONORIG,longitude d'origine,Oui
+LATORIG,latitude d'origine,Oui
+LONDEST,longitude de destination,Oui
+LATDEST,latitude de destination,Oui
+NB_JONC,nombre de points de jonction,Oui
+LONJONC,longitude de la première jonction,Oui
+LATJONC,latitude de la première jonction,Oui
+
+REVENU,revenu du ménage,Non
+AGE,âge de la personne,Non
+SEXE,sexe de la personne,Non
+PERMIS,possession de permis,Non
+
+DATE_DPL,date du déplacement,Non
+JOUR_DPL,jour du déplacement,Non
+HREDE,heure du déplacment,Non
+MOTIF,motif du déplacement,Non

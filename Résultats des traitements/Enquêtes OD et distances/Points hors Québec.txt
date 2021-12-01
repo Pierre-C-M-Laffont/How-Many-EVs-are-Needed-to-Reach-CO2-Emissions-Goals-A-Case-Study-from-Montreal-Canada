@@ -1,0 +1,28 @@
+South America :
+	Sao Paulo
+		2 pts
+	Brésil Nord - Equateur
+		3 pts
+
+USA :
+	Louisiana
+		4 pts
+	NY state
+		23 pts + 3 + qqs à la frontière
+	Vermont
+		4 pts
+	New Jersey
+		2 pts
+	Maine 
+		1 couple de coordonnées MAIS 1273 points
+
+Canada :
+	Newfoundland & Labrador
+		3 pts
+	Ontario
+		less than 200
+
+
+Middle of nowhere :
+	Pt 0,0
+		1 couple de coordonnées MAIS 2446 points

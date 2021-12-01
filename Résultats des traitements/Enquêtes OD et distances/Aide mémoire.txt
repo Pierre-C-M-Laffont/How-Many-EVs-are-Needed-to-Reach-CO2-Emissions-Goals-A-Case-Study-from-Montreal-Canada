@@ -1,0 +1,195 @@
+## Logiciel de Zak
+
+"using TRIP Lab OSRM"
+askip ce serait en mètres
+
+
+
+
+
+## OD 13
+
+m_domad : aire de diff 2011
+
+p_fexp : facteur d'expansion pour la personne
+
+d_mode1, d_mode2..., d_mode9 : mode utilisé (1 auto conduc, 2 auto passager)
+
+
+
+d_orixcoor : Coordonnée X (format MTM NAD 83)
+d_oriycoor : Coordonnée Y (format MTM NAD 83)
+d_orilon : Coordonnée longitude (format WGS 84)
+d_orilat : Coordonnée latitude (format WGS 84)
+
+
+d_desxcoor : Coordonnée X (format MTM NAD 83)
+d_desycoor : Coordonnée Y (format MTM NAD 83)
+d_deslon : Coordonnée longitude (format WGS 84)
+d_deslat : Coordonnée latitude (format WGS 84)
+
+(pareil avec la jonction)
+
+
+
+## OD 18
+
+IPERE : clé du déplacement
+
+FEUILLET : numéro de ménage
+RANG : no de pers dans le logis
+
+FACPER : facteur d'expansion pour la personne
+FACLOG : pas de description (facteur d'expansion pour le logement ?)
+
+CDOMI : code postal de domicile
+
+SDOMI100 : (découpage utilisé pour la pondération) secteur de domicile - système de 100 secteurs
+	/!\ C'est pas les aires de diffusion qui sont utilisées pour la pondération !!
+
+
+XDOMI / YDOMI : coordonnées X et Y du domicile (MTM NAD 83)
+
+SEM / JOUR : sem et jour de déplacement (jour = 1, 2, 3, 4, 5)
+
+NODEPLAC : numero e deplacement (peut etre vide)
+HREDE : heure de départ
+MOTIF : motif
+PERS_AUTO : nb de pers dans l'auto (19 = 19 ou plus)
+
+XORIG / YORIG : coordonnées origine (MTM NAD 83)
+LONORIG / LATORIG : coordonnées origine (WGS 84)
+
+XDEST / YDEST : coord destination (MTM NAD 83)
+LONDEST / LATDEST : coord destination (WGS 84)
+
+XJONC / YJONC : coord de la jonction
+NB_JONC : nb de pts de jonction dans le dép
+LONJONC / LATJONC : coord
+
+DIST : distance en mètres à vol d'oiseau
+
+SEQ_MODES : séquences des modes 
+	1 : Auto conducteur
+	2 : Passager d’auto
+	3 : STM (autobus - Montréal)
+	4 : METRO (autant de fois que de stations : 2 fois pour 1 ligne, 3 fois pour 2 lignes)
+	5 : RTL (autobus - Longueuil)
+	6 : STL (autobus - Laval)
+	7 : exo/MRC (autobus)
+	8 : TRAIN (autant de fois que de gares)
+	9 : Autobus scolaire
+	10 : Autre bus
+	11 : Taxi
+	12 : Moto
+	13 : Vélo
+	14 : A pied
+	15 : Transport adapté
+	16 : Avion, train ou autobus interurbain
+	17 : Point de jonction (transfert modal)
+	18 : Indéterminé
+
+AUTO / AUTOP / AUTOC : utilisation du mode "auto", "auto passager", "auto conduc" (X ou vide)
+MAUTO : 1 ou 2 -> passager ou conducteur
+
+*sections sur les autoroutes*
+
+AUTO_AP : auto partage ? 1:oui 2:non 3:refus ou sait pas 4:N/A
+
+JOUR_DPL : jour de dép
+
+MODE_EXCLU : variable dérivée, priorisation des modes
+	1 : Auto ou moto seul
+	2 : TC seul
+	3 : bus scolaire ou taxi ou transport adapté ou autre autobus (sans TC, auto ou moto)
+	4 : Actif seul
+	5 : auto ou moto + TC
+	6 : TC + autre (actif ou taxi)
+	7 : auto ou moto + autre (actif ou autre_motorisé, autre autobus ou transport adapté)
+	8 : actif + autre_motorisé ou transport adapté ou autre autobus
+	9 : autre et indéterminé
+	10 : combinaisons de 3 modes (auto, TC, autre_motorisé et actif)
+
+
+Questions :
+AGR_DOMI : Code d'agrégation relatif au domicile
+
+
+
+
+
+
+
+
+
+### Réalisé :
+Les séquences de modes peuvent atteindre 8 modes différents, mais seulement 1 pt de jonction
+
+La variable MODE_EXCLU comporte des erreurs : des séquences avec transport adapté / pt de jonction / indéterminé / '20' qui n'a pas d'équivalent...
+Dès que ya des séquences avec plusieurs fois la voiture, on peut pas savoir à quelle portion se raccordent les données passagers et tout
+	donc on va prendre uniquement les trajets avec un seul mode
+	ça fait 97,2% des trajets qui comportent au moins une fois la voiture
+
+246e+3 déplacements en auto pure
+118595 déplacements sans le nb de personnes dans la voiture
+21 où le nb est inconnu
+remplissage moyen : 1.3505623806267537 (sans compter les 19 et 0)
+remplissage moyen : 1.3513946853410672 (sans compter les 0)
+remplissage moyen : 0.6994402590429081 (avec les 0)
+
+
+Un des trajets sur Maps :
+https://www.google.com/maps/dir/45.078383+-69.750538/45.485431,-73.595445/@45.4163839,-71.5742415,8z/data=!4m6!4m5!1m3!2m2!1d-69.750538!2d45.078383!1m0
+392 km (Google)
+244 miles (Google)
+262 km calculés
+
+
+on regroupe par ADIDU,
+puis le truc c'est distances_calculees ("distances_")
+Facteur d'expansion du ménage
+Nb de pers dans l'auto : moyenne pour conduc puis moyenne pour passager à ajouter à la place des valeurs anquantes
+
+
+
+Trajets multimodaux, séquences à calculer et séq à pas calculer (problématiques):
+reconnu comme bon
+['11', '1'] 6
+['11', '2'] 2
+	['2', '18'] 1
+	['2', '9'] 44 -> bus scolaire
+	['1', '18'] 8
+	['1', '20'] 1
+['11'] 4
+	['2', '15'] 3 Transport adapté ?
+['1', '11'] 4
+	['1', '9'] 1
+	['11', '4', '4'] 1
+['2', '11'] 1
+	['1', '18', '1'] 2
+	['1', '13'] 1
+
+Reconnu comme mauvais
+	['9', '2'] 45	-> bus scolaire
+	['18', '1'] 9
+	['20', '1'] 3
+	['15', '2'] 2 Transport adapté ?
+	['9', '1'] 1	-> bus scolaire
+	['18', '2'] 1
+	['16', '1'] 1
+	['13', '1'] 1 Vélo + voiture
+
+
+Les déplacements de l'Etat de Maine :
+Environ 54 km entre le vrai centroïde et les coordonnées de déplacement.
+centroïde : 45.38, -69.23
+déplacement : 45.078, -69.75
+512 km la plus grande distance dans l'Etat
+-> Erreur de distance = environ 10% de la plus grde distance ds l'Etat
+
+
+
+
+
+
+
