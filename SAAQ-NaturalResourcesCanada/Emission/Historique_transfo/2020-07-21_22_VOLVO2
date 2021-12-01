@@ -1,0 +1,97 @@
+appel de la fonction : 
+transfo_en_masse_all
+
+arguments :
+recherche : ['S70 G']
+colonnes : [2]
+remplacement : ['S70']
+version : 5
+
+
+
+Annee 1995 : 
+
+
+Annee 1996 : 
+
+
+Annee 1997 : 
+
+
+Annee 1998 : 
+
+['1998', 'VOLVO', 'S70 G', 'INTERM�DIAIRE', '2.4', '5', 'A4', 'Z', '13.7', '9.7', '11.9', '24', '274\n']
+-> ['1998', 'VOLVO', 'S70', 'INTERM�DIAIRE', '2.4', '5', 'A4', 'Z', '13.7', '9.7', '11.9', '24', '274\n']
+
+
+Annee 1999 : 
+
+['1999', 'VOLVO', 'S70 G', 'INTERM�DIAIRE', '2.4', '5', 'A4', 'Z', '13.5', '9.6', '11.8', '24', '271\n']
+-> ['1999', 'VOLVO', 'S70', 'INTERM�DIAIRE', '2.4', '5', 'A4', 'Z', '13.5', '9.6', '11.8', '24', '271\n']
+
+
+Annee 2000 : 
+
+['2000', 'VOLVO', 'S70 G', 'INTERM�DIAIRE', '2.4', '5', 'A4', 'Z', '13.6', '9.7', '11.9', '24', '274\n']
+-> ['2000', 'VOLVO', 'S70', 'INTERM�DIAIRE', '2.4', '5', 'A4', 'Z', '13.6', '9.7', '11.9', '24', '274\n']
+
+
+Annee 2001 : 
+
+
+Annee 2002 : 
+
+
+Annee 2003 : 
+
+
+Annee 2004 : 
+
+
+Annee 2005 : 
+
+
+Annee 2006 : 
+
+
+Annee 2007 : 
+
+
+Annee 2008 : 
+
+
+Annee 2009 : 
+
+
+Annee 2010 : 
+
+
+Annee 2011 : 
+
+
+Annee 2012 : 
+
+
+Annee 2013 : 
+
+
+Annee 2014 : 
+
+
+Annee 2015 : 
+
+
+Annee 2016 : 
+
+
+Annee 2017 : 
+
+
+Annee 2018 : 
+
+
+Annee 2019 : 
+
+
+Annee 2020 : 
+

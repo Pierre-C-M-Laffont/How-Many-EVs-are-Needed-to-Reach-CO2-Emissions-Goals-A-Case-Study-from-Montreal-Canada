@@ -1,0 +1,91 @@
+appel de la fonction : 
+transfo_en_masse_all
+
+arguments :
+recherche : ['RX-8']
+colonnes : [2]
+remplacement : ['RX8']
+version : 3
+
+
+
+Annee 1995 : 
+
+
+Annee 1996 : 
+
+
+Annee 1997 : 
+
+
+Annee 1998 : 
+
+
+Annee 1999 : 
+
+
+Annee 2000 : 
+
+
+Annee 2001 : 
+
+
+Annee 2002 : 
+
+
+Annee 2003 : 
+
+
+Annee 2004 : 
+
+
+Annee 2005 : 
+
+
+Annee 2006 : 
+
+
+Annee 2007 : 
+
+
+Annee 2008 : 
+
+['2008', 'MAZDA', 'RX-8', 'SOUS-COMPACTE', '1.3', '2', 'AS6', 'Z', '14.5', '10.2', '12.5', '23', '288\n']
+-> ['2008', 'MAZDA', 'RX8', 'SOUS-COMPACTE', '1.3', '2', 'AS6', 'Z', '14.5', '10.2', '12.5', '23', '288\n']
+
+
+Annee 2009 : 
+
+
+Annee 2010 : 
+
+
+Annee 2011 : 
+
+
+Annee 2012 : 
+
+
+Annee 2013 : 
+
+
+Annee 2014 : 
+
+
+Annee 2015 : 
+
+
+Annee 2016 : 
+
+
+Annee 2017 : 
+
+
+Annee 2018 : 
+
+
+Annee 2019 : 
+
+
+Annee 2020 : 
+

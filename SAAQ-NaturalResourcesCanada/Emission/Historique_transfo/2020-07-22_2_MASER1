@@ -1,0 +1,100 @@
+appel de la fonction : 
+transfo_en_masse_all
+
+arguments :
+recherche : ['SPIDE']
+colonnes : [2]
+remplacement : ['SPYDE']
+version : 5
+
+
+
+Annee 1995 : 
+
+
+Annee 1996 : 
+
+
+Annee 1997 : 
+
+
+Annee 1998 : 
+
+
+Annee 1999 : 
+
+
+Annee 2000 : 
+
+
+Annee 2001 : 
+
+
+Annee 2002 : 
+
+
+Annee 2003 : 
+
+['2003', 'MASER', 'SPIDE', 'SOUS-COMPACTE', '4.2', '8', 'M6', 'Z', '23.1', '15.2', '19.5', '14', '449\n']
+-> ['2003', 'MASER', 'SPYDE', 'SOUS-COMPACTE', '4.2', '8', 'M6', 'Z', '23.1', '15.2', '19.5', '14', '449\n']
+
+['2003', 'MASER', 'SPIDE', 'DEUX PLACES', '4.2', '8', 'AS6', 'Z', '22.5', '15.0', '19.1', '15', '439\n']
+-> ['2003', 'MASER', 'SPYDE', 'DEUX PLACES', '4.2', '8', 'AS6', 'Z', '22.5', '15.0', '19.1', '15', '439\n']
+
+
+Annee 2004 : 
+
+['2004', 'MASER', 'SPIDE', 'DEUX PLACES', '4.2', '8', 'AS6', 'Z', '22.5', '15.0', '19.1', '15', '439\n']
+-> ['2004', 'MASER', 'SPYDE', 'DEUX PLACES', '4.2', '8', 'AS6', 'Z', '22.5', '15.0', '19.1', '15', '439\n']
+
+['2004', 'MASER', 'SPIDE', 'DEUX PLACES', '4.2', '8', 'AS6', 'Z', '22.5', '15.0', '19.1', '15', '439\n']
+-> ['2004', 'MASER', 'SPYDE', 'DEUX PLACES', '4.2', '8', 'AS6', 'Z', '22.5', '15.0', '19.1', '15', '439\n']
+
+
+Annee 2005 : 
+
+
+Annee 2006 : 
+
+
+Annee 2007 : 
+
+
+Annee 2008 : 
+
+
+Annee 2009 : 
+
+
+Annee 2010 : 
+
+
+Annee 2011 : 
+
+
+Annee 2012 : 
+
+
+Annee 2013 : 
+
+
+Annee 2014 : 
+
+
+Annee 2015 : 
+
+
+Annee 2016 : 
+
+
+Annee 2017 : 
+
+
+Annee 2018 : 
+
+
+Annee 2019 : 
+
+
+Annee 2020 : 
+

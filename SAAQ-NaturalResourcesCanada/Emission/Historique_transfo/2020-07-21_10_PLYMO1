@@ -1,0 +1,103 @@
+appel de la fonction : 
+transfo_en_masse_all
+
+arguments :
+recherche : ['NEON ']
+colonnes : [2]
+remplacement : ['NEON']
+version : 5
+
+
+
+Annee 1995 : 
+
+['1995', 'PLYMO', 'NEON ', 'COMPACTE', '2.0', '4', 'M5', 'X', '10.0', '7.1', '8.7', '32', '200\n']
+-> ['1995', 'PLYMO', 'NEON', 'COMPACTE', '2.0', '4', 'M5', 'X', '10.0', '7.1', '8.7', '32', '200\n']
+
+['1995', 'PLYMO', 'NEON ', 'COMPACTE', '2.0', '4', 'A3', 'X', '11.7', '8.7', '10.3', '27', '237\n']
+-> ['1995', 'PLYMO', 'NEON', 'COMPACTE', '2.0', '4', 'A3', 'X', '11.7', '8.7', '10.3', '27', '237\n']
+
+
+Annee 1996 : 
+
+
+Annee 1997 : 
+
+
+Annee 1998 : 
+
+['1998', 'PLYMO', 'NEON ', 'COMPACTE', '2.0', '4', 'M5', 'X', '10.4', '7.3', '9.0', '31', '207\n']
+-> ['1998', 'PLYMO', 'NEON', 'COMPACTE', '2.0', '4', 'M5', 'X', '10.4', '7.3', '9.0', '31', '207\n']
+
+
+Annee 1999 : 
+
+['1999', 'PLYMO', 'NEON ', 'COMPACTE', '2.0', '4', 'M5', 'X', '10.4', '7.3', '9.0', '31', '207\n']
+-> ['1999', 'PLYMO', 'NEON', 'COMPACTE', '2.0', '4', 'M5', 'X', '10.4', '7.3', '9.0', '31', '207\n']
+
+['1999', 'PLYMO', 'NEON ', 'COMPACTE', '2.0', '4', 'A3', 'X', '11.2', '8.3', '9.9', '29', '228\n']
+-> ['1999', 'PLYMO', 'NEON', 'COMPACTE', '2.0', '4', 'A3', 'X', '11.2', '8.3', '9.9', '29', '228\n']
+
+
+Annee 2000 : 
+
+
+Annee 2001 : 
+
+
+Annee 2002 : 
+
+
+Annee 2003 : 
+
+
+Annee 2004 : 
+
+
+Annee 2005 : 
+
+
+Annee 2006 : 
+
+
+Annee 2007 : 
+
+
+Annee 2008 : 
+
+
+Annee 2009 : 
+
+
+Annee 2010 : 
+
+
+Annee 2011 : 
+
+
+Annee 2012 : 
+
+
+Annee 2013 : 
+
+
+Annee 2014 : 
+
+
+Annee 2015 : 
+
+
+Annee 2016 : 
+
+
+Annee 2017 : 
+
+
+Annee 2018 : 
+
+
+Annee 2019 : 
+
+
+Annee 2020 : 
+
