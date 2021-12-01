@@ -1,0 +1,17 @@
+tri
+
+remplacement des MAZDA CX5 par CX-5
+
+re-tri
+
+ajout de 3 colonnes de booléens : [18], [19] ,[20] pour savoir si on a trouvé une correspondance exacte (thermique, hybride, élec)
+
+modif des colonnes 19 et 20 (hybirdes et élec) en fonction de ce qu'on a trouvé
+
+duplication en gardant seulement PAU
+
+14 août :
+	traitement des véhicules multi
+	emissions des TESLA rentrees a la main
+	traitement des véhicules sans correspondance
+		application des moyennes (pour SATUR 1995, 1998, 1999 ; ISUZU 2003 ; BENTL 2004 on a pris les données de l'année car aucune marque ne circulait la même année)

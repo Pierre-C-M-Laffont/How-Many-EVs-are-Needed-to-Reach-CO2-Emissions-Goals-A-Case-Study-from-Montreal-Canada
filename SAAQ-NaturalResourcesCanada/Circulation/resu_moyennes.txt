@@ -1,0 +1,6692 @@
+emissions moyennes : 222.33349262940885	pour
+somme des emissions : 1008916484.1953483
+nombre de vehicules etudies : 4537852
+
+
+	1995
+	emissions moyennes : 283.55792135903977	pour
+	somme des emissions : 1485559.9500000093
+	nombre de vehicules etudies : 5239
+
+	1995
+		ACURA
+		emissions moyennes : 232.5248226950356	pour
+		somme des emissions : 21857.333333333347
+		nombre de vehicules etudies : 94
+
+
+	1995
+		AUDI
+		emissions moyennes : 289.46078431372547	pour
+		somme des emissions : 4920.833333333333
+		nombre de vehicules etudies : 17
+
+
+	1995
+		BUICK
+		emissions moyennes : 286.5772357723577	pour
+		somme des emissions : 35249.0
+		nombre de vehicules etudies : 123
+
+
+	1995
+		CHEVR
+		emissions moyennes : 289.55984340044745	pour
+		somme des emissions : 86288.83333333334
+		nombre de vehicules etudies : 298
+
+
+	1995
+		CHRYS
+		emissions moyennes : 277.2586206896552	pour
+		somme des emissions : 16081.0
+		nombre de vehicules etudies : 58
+
+
+	1995
+		DODGE
+		emissions moyennes : 372.50191387559664	pour
+		somme des emissions : 233558.69999999908
+		nombre de vehicules etudies : 627
+
+
+	1995
+		EAGLE
+		emissions moyennes : 258.39285714285717	pour
+		somme des emissions : 9043.75
+		nombre de vehicules etudies : 35
+
+
+	1995
+		FORD
+		emissions moyennes : 323.2554617676266	pour
+		somme des emissions : 325518.25
+		nombre de vehicules etudies : 1007
+
+
+	1995
+		HONDA
+		emissions moyennes : 202.28033980582524	pour
+		somme des emissions : 83339.5
+		nombre de vehicules etudies : 412
+
+
+	1995
+		MERCU
+		emissions moyennes : 280.7987804878049	pour
+		somme des emissions : 23025.5
+		nombre de vehicules etudies : 82
+
+
+	1995
+		NISSA
+		emissions moyennes : 266.44110576923083	pour
+		somme des emissions : 55419.75000000001
+		nombre de vehicules etudies : 208
+
+
+	1995
+		PLYMO
+		emissions moyennes : 262.8	pour
+		somme des emissions : 18396.0
+		nombre de vehicules etudies : 70
+
+
+	1995
+		PONTI
+		emissions moyennes : 265.24378109452726	pour
+		somme des emissions : 53313.999999999985
+		nombre de vehicules etudies : 201
+
+
+	1995
+		SUZUK
+		emissions moyennes : 244.784188034188	pour
+		somme des emissions : 19093.166666666664
+		nombre de vehicules etudies : 78
+
+
+	1995
+		TOYOT
+		emissions moyennes : 223.51143595863178	pour
+		somme des emissions : 187302.58333333343
+		nombre de vehicules etudies : 838
+
+
+	1995
+		VOLKS
+		emissions moyennes : 254.8320707070707	pour
+		somme des emissions : 50456.75
+		nombre de vehicules etudies : 198
+
+
+	1995
+		BMW
+		emissions moyennes : 268.79644808743166	pour
+		somme des emissions : 32793.166666666664
+		nombre de vehicules etudies : 122
+
+
+	1995
+		INFIN
+		emissions moyennes : 264.0	pour
+		somme des emissions : 1320.0
+		nombre de vehicules etudies : 5
+
+
+	1995
+		JEEP
+		emissions moyennes : 358.7903225806452	pour
+		somme des emissions : 55612.5
+		nombre de vehicules etudies : 155
+
+
+	1995
+		MERCE
+		emissions moyennes : 280.5805785123967	pour
+		somme des emissions : 33950.25
+		nombre de vehicules etudies : 121
+
+
+	1995
+		JAGUA
+		emissions moyennes : 317.80434782608694	pour
+		somme des emissions : 7309.5
+		nombre de vehicules etudies : 23
+
+
+	1995
+		LINCO
+		emissions moyennes : 294.0	pour
+		somme des emissions : 5586.0
+		nombre de vehicules etudies : 19
+
+
+	1995
+		OLDSM
+		emissions moyennes : 283.9166666666667	pour
+		somme des emissions : 17035.0
+		nombre de vehicules etudies : 60
+
+
+	1995
+		VOLVO
+		emissions moyennes : 276.6118421052632	pour
+		somme des emissions : 21022.5
+		nombre de vehicules etudies : 76
+
+
+	1995
+		CADIL
+		emissions moyennes : 324.74074074074076	pour
+		somme des emissions : 17536.0
+		nombre de vehicules etudies : 54
+
+
+	1995
+		GEO
+		emissions moyennes : 169.0	pour
+		somme des emissions : 1183.0
+		nombre de vehicules etudies : 7
+
+
+	1995
+		HYUND
+		emissions moyennes : 223.43478260869566	pour
+		somme des emissions : 5139.0
+		nombre de vehicules etudies : 23
+
+
+	1995
+		LANDR
+		emissions moyennes : 442.3333333333333	pour
+		somme des emissions : 1327.0
+		nombre de vehicules etudies : 3
+
+
+	1995
+		LEXUS
+		emissions moyennes : 284.3076923076923	pour
+		somme des emissions : 7392.0
+		nombre de vehicules etudies : 26
+
+
+	1995
+		MAZDA
+		emissions moyennes : 253.82142857142858	pour
+		somme des emissions : 26651.25
+		nombre de vehicules etudies : 105
+
+
+	1995
+		PORSC
+		emissions moyennes : 308.5520833333333	pour
+		somme des emissions : 9873.666666666666
+		nombre de vehicules etudies : 32
+
+
+	1995
+		SAAB
+		emissions moyennes : 271.74242424242425	pour
+		somme des emissions : 2989.166666666667
+		nombre de vehicules etudies : 11
+
+
+	1995
+		SUBAR
+		emissions moyennes : 241.0	pour
+		somme des emissions : 5784.0
+		nombre de vehicules etudies : 24
+
+
+	1995
+		GMC
+		emissions moyennes : 349.0	pour
+		somme des emissions : 6282.0
+		nombre de vehicules etudies : 18
+
+
+	1995
+		FERRA
+		emissions moyennes : 468.0	pour
+		somme des emissions : 2808.0
+		nombre de vehicules etudies : 6
+
+
+	1995
+		ISUZU
+		emissions moyennes : 367.0	pour
+		somme des emissions : 1101.0
+		nombre de vehicules etudies : 3
+
+
+
+
+
+	1996
+	emissions moyennes : 278.54081349525427	pour
+	somme des emissions : 1731688.2374999956
+	nombre de vehicules etudies : 6217
+
+	1996
+		ACURA
+		emissions moyennes : 240.4516129032258	pour
+		somme des emissions : 29816.0
+		nombre de vehicules etudies : 124
+
+
+	1996
+		BMW
+		emissions moyennes : 246.4502923976607	pour
+		somme des emissions : 28095.333333333318
+		nombre de vehicules etudies : 114
+
+
+	1996
+		BUICK
+		emissions moyennes : 270.95454545454544	pour
+		somme des emissions : 23844.0
+		nombre de vehicules etudies : 88
+
+
+	1996
+		CHEVR
+		emissions moyennes : 263.241935483871	pour
+		somme des emissions : 73444.5
+		nombre de vehicules etudies : 279
+
+
+	1996
+		CHRYS
+		emissions moyennes : 276.86267605633805	pour
+		somme des emissions : 39314.5
+		nombre de vehicules etudies : 142
+
+
+	1996
+		DODGE
+		emissions moyennes : 385.8754372738248	pour
+		somme des emissions : 319890.73750000075
+		nombre de vehicules etudies : 829
+
+
+	1996
+		FORD
+		emissions moyennes : 325.7399099099101	pour
+		somme des emissions : 301309.41666666686
+		nombre de vehicules etudies : 925
+
+
+	1996
+		HONDA
+		emissions moyennes : 207.2579575596817	pour
+		somme des emissions : 156272.5
+		nombre de vehicules etudies : 754
+
+
+	1996
+		JEEP
+		emissions moyennes : 350.37423312883436	pour
+		somme des emissions : 57111.0
+		nombre de vehicules etudies : 163
+
+
+	1996
+		MAZDA
+		emissions moyennes : 265.8626943005181	pour
+		somme des emissions : 51311.5
+		nombre de vehicules etudies : 193
+
+
+	1996
+		MERCE
+		emissions moyennes : 268.6363636363636	pour
+		somme des emissions : 17730.0
+		nombre de vehicules etudies : 66
+
+
+	1996
+		MERCU
+		emissions moyennes : 264.5396341463415	pour
+		somme des emissions : 21692.25
+		nombre de vehicules etudies : 82
+
+
+	1996
+		PLYMO
+		emissions moyennes : 281.42035398230087	pour
+		somme des emissions : 31800.5
+		nombre de vehicules etudies : 113
+
+
+	1996
+		PONTI
+		emissions moyennes : 253.51388888888872	pour
+		somme des emissions : 51716.8333333333
+		nombre de vehicules etudies : 204
+
+
+	1996
+		TOYOT
+		emissions moyennes : 228.34331259720057	pour
+		somme des emissions : 293649.49999999994
+		nombre de vehicules etudies : 1286
+
+
+	1996
+		VOLKS
+		emissions moyennes : 257.2730263157895	pour
+		somme des emissions : 39105.5
+		nombre de vehicules etudies : 152
+
+
+	1996
+		CADIL
+		emissions moyennes : 316.7241379310345	pour
+		somme des emissions : 18370.0
+		nombre de vehicules etudies : 58
+
+
+	1996
+		GEO
+		emissions moyennes : 236.265625	pour
+		somme des emissions : 7560.5
+		nombre de vehicules etudies : 32
+
+
+	1996
+		INFIN
+		emissions moyennes : 265.8	pour
+		somme des emissions : 2658.0
+		nombre de vehicules etudies : 10
+
+
+	1996
+		ISUZU
+		emissions moyennes : 374.0	pour
+		somme des emissions : 748.0
+		nombre de vehicules etudies : 2
+
+
+	1996
+		NISSA
+		emissions moyennes : 281.2557251908397	pour
+		somme des emissions : 36844.5
+		nombre de vehicules etudies : 131
+
+
+	1996
+		OLDSM
+		emissions moyennes : 271.609756097561	pour
+		somme des emissions : 11136.0
+		nombre de vehicules etudies : 41
+
+
+	1996
+		PORSC
+		emissions moyennes : 330.75	pour
+		somme des emissions : 10914.75
+		nombre de vehicules etudies : 33
+
+
+	1996
+		SUZUK
+		emissions moyennes : 237.9266304347826	pour
+		somme des emissions : 21889.25
+		nombre de vehicules etudies : 92
+
+
+	1996
+		VOLVO
+		emissions moyennes : 271.0	pour
+		somme des emissions : 25474.0
+		nombre de vehicules etudies : 94
+
+
+	1996
+		JAGUA
+		emissions moyennes : 303.04545454545456	pour
+		somme des emissions : 6667.0
+		nombre de vehicules etudies : 22
+
+
+	1996
+		AUDI
+		emissions moyennes : 286.0689655172414	pour
+		somme des emissions : 8296.0
+		nombre de vehicules etudies : 29
+
+
+	1996
+		EAGLE
+		emissions moyennes : 280.25	pour
+		somme des emissions : 3363.0
+		nombre de vehicules etudies : 12
+
+
+	1996
+		LEXUS
+		emissions moyennes : 273.0	pour
+		somme des emissions : 8190.0
+		nombre de vehicules etudies : 30
+
+
+	1996
+		GMC
+		emissions moyennes : 339.0	pour
+		somme des emissions : 8136.0
+		nombre de vehicules etudies : 24
+
+
+	1996
+		SUBAR
+		emissions moyennes : 258.85714285714283	pour
+		somme des emissions : 5436.0
+		nombre de vehicules etudies : 21
+
+
+	1996
+		LINCO
+		emissions moyennes : 298.0625	pour
+		somme des emissions : 9538.0
+		nombre de vehicules etudies : 32
+
+
+	1996
+		SAAB
+		emissions moyennes : 277.7142857142857	pour
+		somme des emissions : 3888.0
+		nombre de vehicules etudies : 14
+
+
+	1996
+		HYUND
+		emissions moyennes : 204.33333333333337	pour
+		somme des emissions : 3473.6666666666674
+		nombre de vehicules etudies : 17
+
+
+	1996
+		SATUR
+		emissions moyennes : 196.5	pour
+		somme des emissions : 589.5
+		nombre de vehicules etudies : 3
+
+
+	1996
+		LANDR
+		emissions moyennes : 402.0	pour
+		somme des emissions : 2412.0
+		nombre de vehicules etudies : 6
+
+
+
+
+
+	1997
+	emissions moyennes : 266.79239521653255	pour
+	somme des emissions : 3063843.86666666
+	nombre de vehicules etudies : 11484
+
+	1997
+		ACURA
+		emissions moyennes : 225.1472431077692	pour
+		somme des emissions : 59889.16666666661
+		nombre de vehicules etudies : 266
+
+
+	1997
+		BMW
+		emissions moyennes : 267.96540880503153	pour
+		somme des emissions : 85213.00000000003
+		nombre de vehicules etudies : 318
+
+
+	1997
+		CHEVR
+		emissions moyennes : 266.1835585585578	pour
+		somme des emissions : 118185.49999999967
+		nombre de vehicules etudies : 444
+
+
+	1997
+		CHRYS
+		emissions moyennes : 279.3380726698265	pour
+		somme des emissions : 58940.333333333394
+		nombre de vehicules etudies : 211
+
+
+	1997
+		DODGE
+		emissions moyennes : 365.21912045889144	pour
+		somme des emissions : 382019.2000000004
+		nombre de vehicules etudies : 1046
+
+
+	1997
+		FORD
+		emissions moyennes : 318.77506302113596	pour
+		somme des emissions : 547974.3333333327
+		nombre de vehicules etudies : 1719
+
+
+	1997
+		GMC
+		emissions moyennes : 336.0	pour
+		somme des emissions : 27888.0
+		nombre de vehicules etudies : 83
+
+
+	1997
+		HONDA
+		emissions moyennes : 223.86250654107798	pour
+		somme des emissions : 427801.25
+		nombre de vehicules etudies : 1911
+
+
+	1997
+		LINCO
+		emissions moyennes : 296.8	pour
+		somme des emissions : 13356.0
+		nombre de vehicules etudies : 45
+
+
+	1997
+		MAZDA
+		emissions moyennes : 260.5106589147287	pour
+		somme des emissions : 67211.75
+		nombre de vehicules etudies : 258
+
+
+	1997
+		MERCE
+		emissions moyennes : 278.4352517985611	pour
+		somme des emissions : 38702.5
+		nombre de vehicules etudies : 139
+
+
+	1997
+		NISSA
+		emissions moyennes : 285.4156746031747	pour
+		somme des emissions : 47949.83333333335
+		nombre de vehicules etudies : 168
+
+
+	1997
+		PLYMO
+		emissions moyennes : 261.2132867132867	pour
+		somme des emissions : 37353.5
+		nombre de vehicules etudies : 143
+
+
+	1997
+		PONTI
+		emissions moyennes : 250.483002832861	pour
+		somme des emissions : 88420.49999999993
+		nombre de vehicules etudies : 353
+
+
+	1997
+		TOYOT
+		emissions moyennes : 225.48131487889273	pour
+		somme des emissions : 651641.0
+		nombre de vehicules etudies : 2890
+
+
+	1997
+		VOLKS
+		emissions moyennes : 218.80392156862746	pour
+		somme des emissions : 44636.0
+		nombre de vehicules etudies : 204
+
+
+	1997
+		AUDI
+		emissions moyennes : 271.22972972972974	pour
+		somme des emissions : 10035.5
+		nombre de vehicules etudies : 37
+
+
+	1997
+		JEEP
+		emissions moyennes : 347.2266355140187	pour
+		somme des emissions : 74306.5
+		nombre de vehicules etudies : 214
+
+
+	1997
+		LEXUS
+		emissions moyennes : 297.7164179104478	pour
+		somme des emissions : 19947.0
+		nombre de vehicules etudies : 67
+
+
+	1997
+		SUZUK
+		emissions moyennes : 242.2590909090909	pour
+		somme des emissions : 39972.75
+		nombre de vehicules etudies : 165
+
+
+	1997
+		VOLVO
+		emissions moyennes : 268.7222222222224	pour
+		somme des emissions : 21766.500000000015
+		nombre de vehicules etudies : 81
+
+
+	1997
+		GEO
+		emissions moyennes : 231.30555555555554	pour
+		somme des emissions : 12490.5
+		nombre de vehicules etudies : 54
+
+
+	1997
+		HYUND
+		emissions moyennes : 218.5472972972973	pour
+		somme des emissions : 8086.25
+		nombre de vehicules etudies : 37
+
+
+	1997
+		JAGUA
+		emissions moyennes : 304.86	pour
+		somme des emissions : 7621.5
+		nombre de vehicules etudies : 25
+
+
+	1997
+		MERCU
+		emissions moyennes : 284.2758620689655	pour
+		somme des emissions : 24732.0
+		nombre de vehicules etudies : 87
+
+
+	1997
+		BUICK
+		emissions moyennes : 267.88988095238096	pour
+		somme des emissions : 45005.5
+		nombre de vehicules etudies : 168
+
+
+	1997
+		EAGLE
+		emissions moyennes : 258.09615384615387	pour
+		somme des emissions : 6710.5
+		nombre de vehicules etudies : 26
+
+
+	1997
+		PORSC
+		emissions moyennes : 310.5625	pour
+		somme des emissions : 19876.0
+		nombre de vehicules etudies : 64
+
+
+	1997
+		SUBAR
+		emissions moyennes : 254.31578947368422	pour
+		somme des emissions : 14496.0
+		nombre de vehicules etudies : 57
+
+
+	1997
+		CADIL
+		emissions moyennes : 298.2125	pour
+		somme des emissions : 23857.0
+		nombre de vehicules etudies : 80
+
+
+	1997
+		LANDR
+		emissions moyennes : 402.0769230769231	pour
+		somme des emissions : 5227.0
+		nombre de vehicules etudies : 13
+
+
+	1997
+		FERRA
+		emissions moyennes : 505.6666666666667	pour
+		somme des emissions : 4551.0
+		nombre de vehicules etudies : 9
+
+
+	1997
+		OLDSM
+		emissions moyennes : 267.86607142857144	pour
+		somme des emissions : 15000.5
+		nombre de vehicules etudies : 56
+
+
+	1997
+		SAAB
+		emissions moyennes : 277.59090909090907	pour
+		somme des emissions : 6106.999999999999
+		nombre de vehicules etudies : 22
+
+
+	1997
+		INFIN
+		emissions moyennes : 313.46153846153845	pour
+		somme des emissions : 4075.0
+		nombre de vehicules etudies : 13
+
+
+	1997
+		ISUZU
+		emissions moyennes : 260.35	pour
+		somme des emissions : 2603.5
+		nombre de vehicules etudies : 10
+
+
+	1997
+		SATUR
+		emissions moyennes : 194.5	pour
+		somme des emissions : 194.5
+		nombre de vehicules etudies : 1
+
+
+
+
+
+	1998
+	emissions moyennes : 259.7777832238235	pour
+	somme des emissions : 4902526.324999997
+	nombre de vehicules etudies : 18872
+
+	1998
+		ACURA
+		emissions moyennes : 221.22933696639421	pour
+		somme des emissions : 81191.16666666667
+		nombre de vehicules etudies : 367
+
+
+	1998
+		AUDI
+		emissions moyennes : 264.0882352941176	pour
+		somme des emissions : 22447.5
+		nombre de vehicules etudies : 85
+
+
+	1998
+		BMW
+		emissions moyennes : 272.24754098360654	pour
+		somme des emissions : 83035.5
+		nombre de vehicules etudies : 305
+
+
+	1998
+		BUICK
+		emissions moyennes : 275.21521739130435	pour
+		somme des emissions : 63299.5
+		nombre de vehicules etudies : 230
+
+
+	1998
+		CHEVR
+		emissions moyennes : 266.99162257495516	pour
+		somme des emissions : 201845.6666666661
+		nombre de vehicules etudies : 756
+
+
+	1998
+		CHRYS
+		emissions moyennes : 265.7569444444443	pour
+		somme des emissions : 51025.3333333333
+		nombre de vehicules etudies : 192
+
+
+	1998
+		DODGE
+		emissions moyennes : 365.37731575388716	pour
+		somme des emissions : 540393.0499999991
+		nombre de vehicules etudies : 1479
+
+
+	1998
+		FORD
+		emissions moyennes : 328.3384676145337	pour
+		somme des emissions : 692794.1666666662
+		nombre de vehicules etudies : 2110
+
+
+	1998
+		GMC
+		emissions moyennes : 347.25	pour
+		somme des emissions : 45489.75
+		nombre de vehicules etudies : 131
+
+
+	1998
+		HONDA
+		emissions moyennes : 220.41494284158955	pour
+		somme des emissions : 809804.5
+		nombre de vehicules etudies : 3674
+
+
+	1998
+		JEEP
+		emissions moyennes : 345.61181434599155	pour
+		somme des emissions : 163820.0
+		nombre de vehicules etudies : 474
+
+
+	1998
+		MAZDA
+		emissions moyennes : 285.6050328227571	pour
+		somme des emissions : 130521.5
+		nombre de vehicules etudies : 457
+
+
+	1998
+		NISSA
+		emissions moyennes : 271.20344287949894	pour
+		somme des emissions : 115532.66666666656
+		nombre de vehicules etudies : 426
+
+
+	1998
+		OLDSM
+		emissions moyennes : 279.48809523809524	pour
+		somme des emissions : 23477.0
+		nombre de vehicules etudies : 84
+
+
+	1998
+		PLYMO
+		emissions moyennes : 269.07902298850576	pour
+		somme des emissions : 46819.75
+		nombre de vehicules etudies : 174
+
+
+	1998
+		PONTI
+		emissions moyennes : 251.29210992907832	pour
+		somme des emissions : 94485.83333333344
+		nombre de vehicules etudies : 376
+
+
+	1998
+		SUBAR
+		emissions moyennes : 254.19060773480663	pour
+		somme des emissions : 46008.5
+		nombre de vehicules etudies : 181
+
+
+	1998
+		SUZUK
+		emissions moyennes : 240.34129213483146	pour
+		somme des emissions : 42780.75
+		nombre de vehicules etudies : 178
+
+
+	1998
+		TOYOT
+		emissions moyennes : 217.99637103912303	pour
+		somme des emissions : 1231461.500000006
+		nombre de vehicules etudies : 5649
+
+
+	1998
+		VOLKS
+		emissions moyennes : 230.15579710144928	pour
+		somme des emissions : 47642.25
+		nombre de vehicules etudies : 207
+
+
+	1998
+		VOLVO
+		emissions moyennes : 274.682001087548	pour
+		somme des emissions : 168380.0666666669
+		nombre de vehicules etudies : 613
+
+
+	1998
+		CADIL
+		emissions moyennes : 297.8888888888889	pour
+		somme des emissions : 24129.0
+		nombre de vehicules etudies : 81
+
+
+	1998
+		EAGLE
+		emissions moyennes : 254.75	pour
+		somme des emissions : 4330.75
+		nombre de vehicules etudies : 17
+
+
+	1998
+		JAGUA
+		emissions moyennes : 306.3611111111111	pour
+		somme des emissions : 5514.5
+		nombre de vehicules etudies : 18
+
+
+	1998
+		LEXUS
+		emissions moyennes : 283.1	pour
+		somme des emissions : 19817.0
+		nombre de vehicules etudies : 70
+
+
+	1998
+		MERCE
+		emissions moyennes : 263.8675650557621	pour
+		somme des emissions : 70980.375
+		nombre de vehicules etudies : 269
+
+
+	1998
+		MERCU
+		emissions moyennes : 263.76838235294116	pour
+		somme des emissions : 17936.25
+		nombre de vehicules etudies : 68
+
+
+	1998
+		INFIN
+		emissions moyennes : 320.14285714285717	pour
+		somme des emissions : 4482.0
+		nombre de vehicules etudies : 14
+
+
+	1998
+		ISUZU
+		emissions moyennes : 337.88461538461536	pour
+		somme des emissions : 4392.5
+		nombre de vehicules etudies : 13
+
+
+	1998
+		LANDR
+		emissions moyennes : 404.2	pour
+		somme des emissions : 6063.0
+		nombre de vehicules etudies : 15
+
+
+	1998
+		PORSC
+		emissions moyennes : 295.55555555555554	pour
+		somme des emissions : 15960.0
+		nombre de vehicules etudies : 54
+
+
+	1998
+		HYUND
+		emissions moyennes : 220.33823529411765	pour
+		somme des emissions : 14983.0
+		nombre de vehicules etudies : 68
+
+
+	1998
+		SAAB
+		emissions moyennes : 271.27272727272725	pour
+		somme des emissions : 2984.0
+		nombre de vehicules etudies : 11
+
+
+	1998
+		LINCO
+		emissions moyennes : 305.45454545454544	pour
+		somme des emissions : 6720.0
+		nombre de vehicules etudies : 22
+
+
+	1998
+		FERRA
+		emissions moyennes : 515.3333333333334	pour
+		somme des emissions : 1546.0
+		nombre de vehicules etudies : 3
+
+
+	1998
+		BENTL
+		emissions moyennes : 432.0	pour
+		somme des emissions : 432.0
+		nombre de vehicules etudies : 1
+
+
+
+
+
+	1999
+	emissions moyennes : 256.14944981051843	pour
+	somme des emissions : 6444207.858333022
+	nombre de vehicules etudies : 25158
+
+	1999
+		ACURA
+		emissions moyennes : 234.7184829059831	pour
+		somme des emissions : 146464.33333333346
+		nombre de vehicules etudies : 624
+
+
+	1999
+		AUDI
+		emissions moyennes : 269.4240867579909	pour
+		somme des emissions : 39335.91666666667
+		nombre de vehicules etudies : 146
+
+
+	1999
+		BMW
+		emissions moyennes : 273.16027777777794	pour
+		somme des emissions : 81948.08333333339
+		nombre de vehicules etudies : 300
+
+
+	1999
+		BUICK
+		emissions moyennes : 266.1684210526316	pour
+		somme des emissions : 50572.0
+		nombre de vehicules etudies : 190
+
+
+	1999
+		CHEVR
+		emissions moyennes : 255.45113114174492	pour
+		somme des emissions : 240890.41666666546
+		nombre de vehicules etudies : 943
+
+
+	1999
+		CHRYS
+		emissions moyennes : 269.4098712446352	pour
+		somme des emissions : 125545.0
+		nombre de vehicules etudies : 466
+
+
+	1999
+		DODGE
+		emissions moyennes : 368.56856010567776	pour
+		somme des emissions : 558012.7999999961
+		nombre de vehicules etudies : 1514
+
+
+	1999
+		FORD
+		emissions moyennes : 349.19415357766314	pour
+		somme des emissions : 1000441.2500000049
+		nombre de vehicules etudies : 2865
+
+
+	1999
+		HONDA
+		emissions moyennes : 225.48148106403252	pour
+		somme des emissions : 1000235.8500000483
+		nombre de vehicules etudies : 4436
+
+
+	1999
+		HYUND
+		emissions moyennes : 222.4963768115942	pour
+		somme des emissions : 30704.5
+		nombre de vehicules etudies : 138
+
+
+	1999
+		JEEP
+		emissions moyennes : 334.70603015075375	pour
+		somme des emissions : 133213.0
+		nombre de vehicules etudies : 398
+
+
+	1999
+		LEXUS
+		emissions moyennes : 291.2689393939394	pour
+		somme des emissions : 38447.5
+		nombre de vehicules etudies : 132
+
+
+	1999
+		MAZDA
+		emissions moyennes : 253.8129652605459	pour
+		somme des emissions : 204573.25
+		nombre de vehicules etudies : 806
+
+
+	1999
+		MERCE
+		emissions moyennes : 282.23248407643314	pour
+		somme des emissions : 132931.5
+		nombre de vehicules etudies : 471
+
+
+	1999
+		MERCU
+		emissions moyennes : 285.01027397260276	pour
+		somme des emissions : 41611.5
+		nombre de vehicules etudies : 146
+
+
+	1999
+		NISSA
+		emissions moyennes : 273.30251822398935	pour
+		somme des emissions : 137471.16666666666
+		nombre de vehicules etudies : 503
+
+
+	1999
+		OLDSM
+		emissions moyennes : 271.3630573248408	pour
+		somme des emissions : 42604.0
+		nombre de vehicules etudies : 157
+
+
+	1999
+		PLYMO
+		emissions moyennes : 271.375	pour
+		somme des emissions : 34736.0
+		nombre de vehicules etudies : 128
+
+
+	1999
+		PONTI
+		emissions moyennes : 245.58749010293025	pour
+		somme des emissions : 103392.33333333363
+		nombre de vehicules etudies : 421
+
+
+	1999
+		PORSC
+		emissions moyennes : 301.7752808988764	pour
+		somme des emissions : 53716.0
+		nombre de vehicules etudies : 178
+
+
+	1999
+		SUBAR
+		emissions moyennes : 255.31620553359684	pour
+		somme des emissions : 64595.0
+		nombre de vehicules etudies : 253
+
+
+	1999
+		SUZUK
+		emissions moyennes : 268.63366336633663	pour
+		somme des emissions : 108528.0
+		nombre de vehicules etudies : 404
+
+
+	1999
+		TOYOT
+		emissions moyennes : 209.79220915814219	pour
+		somme des emissions : 1579105.9583333363
+		nombre de vehicules etudies : 7527
+
+
+	1999
+		VOLKS
+		emissions moyennes : 207.68121812181232	pour
+		somme des emissions : 230733.8333333335
+		nombre de vehicules etudies : 1111
+
+
+	1999
+		VOLVO
+		emissions moyennes : 270.9472460658088	pour
+		somme des emissions : 126261.41666666692
+		nombre de vehicules etudies : 466
+
+
+	1999
+		GMC
+		emissions moyennes : 338.75	pour
+		somme des emissions : 38278.75
+		nombre de vehicules etudies : 113
+
+
+	1999
+		SAAB
+		emissions moyennes : 271.82978723404256	pour
+		somme des emissions : 12776.0
+		nombre de vehicules etudies : 47
+
+
+	1999
+		CADIL
+		emissions moyennes : 307.5	pour
+		somme des emissions : 36285.0
+		nombre de vehicules etudies : 118
+
+
+	1999
+		INFIN
+		emissions moyennes : 292.7	pour
+		somme des emissions : 8781.0
+		nombre de vehicules etudies : 30
+
+
+	1999
+		ISUZU
+		emissions moyennes : 322.14285714285717	pour
+		somme des emissions : 4510.0
+		nombre de vehicules etudies : 14
+
+
+	1999
+		LANDR
+		emissions moyennes : 410.2	pour
+		somme des emissions : 8204.0
+		nombre de vehicules etudies : 20
+
+
+	1999
+		JAGUA
+		emissions moyennes : 310.0238095238095	pour
+		somme des emissions : 6510.5
+		nombre de vehicules etudies : 21
+
+
+	1999
+		LINCO
+		emissions moyennes : 332.48214285714283	pour
+		somme des emissions : 18619.0
+		nombre de vehicules etudies : 56
+
+
+	1999
+		DAEWO
+		emissions moyennes : 225.78571428571428	pour
+		somme des emissions : 3161.0
+		nombre de vehicules etudies : 14
+
+
+	1999
+		FERRA
+		emissions moyennes : 506.0	pour
+		somme des emissions : 1012.0
+		nombre de vehicules etudies : 2
+
+
+
+
+
+	2000
+	emissions moyennes : 255.62340400849249	pour
+	somme des emissions : 9548556.633333229
+	nombre de vehicules etudies : 37354
+
+	2000
+		ACURA
+		emissions moyennes : 231.43564862104188	pour
+		somme des emissions : 226575.5
+		nombre de vehicules etudies : 979
+
+
+	2000
+		AUDI
+		emissions moyennes : 276.11805555555554	pour
+		somme des emissions : 69581.75
+		nombre de vehicules etudies : 252
+
+
+	2000
+		BMW
+		emissions moyennes : 276.9037153322872	pour
+		somme des emissions : 176387.66666666695
+		nombre de vehicules etudies : 637
+
+
+	2000
+		BUICK
+		emissions moyennes : 264.4737991266376	pour
+		somme des emissions : 121129.0
+		nombre de vehicules etudies : 458
+
+
+	2000
+		CADIL
+		emissions moyennes : 309.2147651006711	pour
+		somme des emissions : 46073.0
+		nombre de vehicules etudies : 149
+
+
+	2000
+		CHEVR
+		emissions moyennes : 268.2592548076903	pour
+		somme des emissions : 557979.2499999958
+		nombre de vehicules etudies : 2080
+
+
+	2000
+		CHRYS
+		emissions moyennes : 252.714127116292	pour
+		somme des emissions : 303509.6666666667
+		nombre de vehicules etudies : 1201
+
+
+	2000
+		DODGE
+		emissions moyennes : 347.50204541919436	pour
+		somme des emissions : 744696.8833333335
+		nombre de vehicules etudies : 2143
+
+
+	2000
+		FORD
+		emissions moyennes : 318.277164852408	pour
+		somme des emissions : 1081824.083333335
+		nombre de vehicules etudies : 3399
+
+
+	2000
+		GMC
+		emissions moyennes : 339.9631650750341	pour
+		somme des emissions : 249193.0
+		nombre de vehicules etudies : 733
+
+
+	2000
+		HONDA
+		emissions moyennes : 226.69329464410572	pour
+		somme des emissions : 1621083.75
+		nombre de vehicules etudies : 7151
+
+
+	2000
+		HYUND
+		emissions moyennes : 218.92848970251717	pour
+		somme des emissions : 95671.75
+		nombre de vehicules etudies : 437
+
+
+	2000
+		JEEP
+		emissions moyennes : 340.9498746867168	pour
+		somme des emissions : 272078.0
+		nombre de vehicules etudies : 798
+
+
+	2000
+		LANDR
+		emissions moyennes : 408.0	pour
+		somme des emissions : 8976.0
+		nombre de vehicules etudies : 22
+
+
+	2000
+		LEXUS
+		emissions moyennes : 290.4453781512605	pour
+		somme des emissions : 34563.0
+		nombre de vehicules etudies : 119
+
+
+	2000
+		MAZDA
+		emissions moyennes : 254.9440269749522	pour
+		somme des emissions : 441053.1666666673
+		nombre de vehicules etudies : 1730
+
+
+	2000
+		MERCE
+		emissions moyennes : 290.4895591647332	pour
+		somme des emissions : 125201.0
+		nombre de vehicules etudies : 431
+
+
+	2000
+		NISSA
+		emissions moyennes : 295.806598407281	pour
+		somme des emissions : 260014.0
+		nombre de vehicules etudies : 879
+
+
+	2000
+		OLDSM
+		emissions moyennes : 263.2348484848485	pour
+		somme des emissions : 69494.0
+		nombre de vehicules etudies : 264
+
+
+	2000
+		PONTI
+		emissions moyennes : 250.13378906250222	pour
+		somme des emissions : 256137.00000000227
+		nombre de vehicules etudies : 1024
+
+
+	2000
+		SUBAR
+		emissions moyennes : 250.04329004329006	pour
+		somme des emissions : 115520.0
+		nombre de vehicules etudies : 462
+
+
+	2000
+		SUZUK
+		emissions moyennes : 267.79263157894735	pour
+		somme des emissions : 127201.5
+		nombre de vehicules etudies : 475
+
+
+	2000
+		TOYOT
+		emissions moyennes : 217.8677937680388	pour
+		somme des emissions : 1710697.9166666407
+		nombre de vehicules etudies : 7852
+
+
+	2000
+		VOLKS
+		emissions moyennes : 197.19171842650104	pour
+		somme des emissions : 476218.0
+		nombre de vehicules etudies : 2415
+
+
+	2000
+		VOLVO
+		emissions moyennes : 272.8208782742681	pour
+		somme des emissions : 177060.75
+		nombre de vehicules etudies : 649
+
+
+	2000
+		DAEWO
+		emissions moyennes : 233.5	pour
+		somme des emissions : 6304.5
+		nombre de vehicules etudies : 27
+
+
+	2000
+		JAGUA
+		emissions moyennes : 302.19444444444446	pour
+		somme des emissions : 32637.0
+		nombre de vehicules etudies : 108
+
+
+	2000
+		KIA
+		emissions moyennes : 262.1475409836066	pour
+		somme des emissions : 15991.0
+		nombre de vehicules etudies : 61
+
+
+	2000
+		LINCO
+		emissions moyennes : 316.031746031746	pour
+		somme des emissions : 39820.0
+		nombre de vehicules etudies : 126
+
+
+	2000
+		PORSC
+		emissions moyennes : 302.5469798657718	pour
+		somme des emissions : 45079.5
+		nombre de vehicules etudies : 149
+
+
+	2000
+		INFIN
+		emissions moyennes : 280.5681818181818	pour
+		somme des emissions : 12345.0
+		nombre de vehicules etudies : 44
+
+
+	2000
+		SAAB
+		emissions moyennes : 264.65384615384613	pour
+		somme des emissions : 13762.0
+		nombre de vehicules etudies : 52
+
+
+	2000
+		ISUZU
+		emissions moyennes : 312.25	pour
+		somme des emissions : 4996.0
+		nombre de vehicules etudies : 16
+
+
+	2000
+		SATUR
+		emissions moyennes : 234.2941176470588	pour
+		somme des emissions : 3983.0
+		nombre de vehicules etudies : 17
+
+
+	2000
+		PLYMO
+		emissions moyennes : 308.0	pour
+		somme des emissions : 2772.0
+		nombre de vehicules etudies : 9
+
+
+	2000
+		FERRA
+		emissions moyennes : 491.1666666666667	pour
+		somme des emissions : 2947.0
+		nombre de vehicules etudies : 6
+
+
+
+
+
+	2001
+	emissions moyennes : 247.73803828652618	pour
+	somme des emissions : 11115510.301839856
+	nombre de vehicules etudies : 44868
+
+	2001
+		ACURA
+		emissions moyennes : 223.8901808785534	pour
+		somme des emissions : 231054.6666666671
+		nombre de vehicules etudies : 1032
+
+
+	2001
+		AUDI
+		emissions moyennes : 273.58674540682415	pour
+		somme des emissions : 173727.58333333334
+		nombre de vehicules etudies : 635
+
+
+	2001
+		BMW
+		emissions moyennes : 283.83550347222223	pour
+		somme des emissions : 217985.6666666667
+		nombre de vehicules etudies : 768
+
+
+	2001
+		BUICK
+		emissions moyennes : 263.85227272727275	pour
+		somme des emissions : 116095.0
+		nombre de vehicules etudies : 440
+
+
+	2001
+		CADIL
+		emissions moyennes : 294.3835616438356	pour
+		somme des emissions : 42980.0
+		nombre de vehicules etudies : 146
+
+
+	2001
+		CHEVR
+		emissions moyennes : 258.54221654604686	pour
+		somme des emissions : 607315.6666666641
+		nombre de vehicules etudies : 2349
+
+
+	2001
+		CHRYS
+		emissions moyennes : 261.30340136054417	pour
+		somme des emissions : 384115.99999999994
+		nombre de vehicules etudies : 1470
+
+
+	2001
+		DODGE
+		emissions moyennes : 353.96555966592507	pour
+		somme des emissions : 876064.7601731645
+		nombre de vehicules etudies : 2475
+
+
+	2001
+		FORD
+		emissions moyennes : 313.97382280049567	pour
+		somme des emissions : 1182425.4166666667
+		nombre de vehicules etudies : 3766
+
+
+	2001
+		GMC
+		emissions moyennes : 344.614185110664	pour
+		somme des emissions : 171273.25
+		nombre de vehicules etudies : 497
+
+
+	2001
+		HONDA
+		emissions moyennes : 215.37532759266193	pour
+		somme des emissions : 1725802.5
+		nombre de vehicules etudies : 8013
+
+
+	2001
+		HYUND
+		emissions moyennes : 232.87781036168133	pour
+		somme des emissions : 238234.0
+		nombre de vehicules etudies : 1023
+
+
+	2001
+		JAGUA
+		emissions moyennes : 303.22222222222223	pour
+		somme des emissions : 19103.0
+		nombre de vehicules etudies : 63
+
+
+	2001
+		JEEP
+		emissions moyennes : 349.85084033613447	pour
+		somme des emissions : 166529.0
+		nombre de vehicules etudies : 476
+
+
+	2001
+		LEXUS
+		emissions moyennes : 301.0882352941176	pour
+		somme des emissions : 61422.0
+		nombre de vehicules etudies : 204
+
+
+	2001
+		LINCO
+		emissions moyennes : 310.16326530612247	pour
+		somme des emissions : 30396.0
+		nombre de vehicules etudies : 98
+
+
+	2001
+		MAZDA
+		emissions moyennes : 265.96037137681117	pour
+		somme des emissions : 489367.0833333325
+		nombre de vehicules etudies : 1840
+
+
+	2001
+		MERCE
+		emissions moyennes : 292.3727758007116	pour
+		somme des emissions : 164313.49999999994
+		nombre de vehicules etudies : 562
+
+
+	2001
+		NISSA
+		emissions moyennes : 259.5818285859613	pour
+		somme des emissions : 510337.875
+		nombre de vehicules etudies : 1966
+
+
+	2001
+		OLDSM
+		emissions moyennes : 263.3589108910891	pour
+		somme des emissions : 106397.0
+		nombre de vehicules etudies : 404
+
+
+	2001
+		PONTI
+		emissions moyennes : 250.37688442211055	pour
+		somme des emissions : 348775.0
+		nombre de vehicules etudies : 1393
+
+
+	2001
+		PORSC
+		emissions moyennes : 301.73724489795916	pour
+		somme des emissions : 59140.5
+		nombre de vehicules etudies : 196
+
+
+	2001
+		SAAB
+		emissions moyennes : 258.53333333333336	pour
+		somme des emissions : 19390.0
+		nombre de vehicules etudies : 75
+
+
+	2001
+		SATUR
+		emissions moyennes : 219.32835820895522	pour
+		somme des emissions : 14695.0
+		nombre de vehicules etudies : 67
+
+
+	2001
+		SUBAR
+		emissions moyennes : 253.84101748807632	pour
+		somme des emissions : 159666.0
+		nombre de vehicules etudies : 629
+
+
+	2001
+		SUZUK
+		emissions moyennes : 269.74345930232556	pour
+		somme des emissions : 185583.5
+		nombre de vehicules etudies : 688
+
+
+	2001
+		TOYOT
+		emissions moyennes : 200.93935107572224	pour
+		somme des emissions : 1917765.166666693
+		nombre de vehicules etudies : 9544
+
+
+	2001
+		VOLKS
+		emissions moyennes : 202.6406957350487	pour
+		somme des emissions : 566988.6666666663
+		nombre de vehicules etudies : 2798
+
+
+	2001
+		VOLVO
+		emissions moyennes : 258.12323232323234	pour
+		somme des emissions : 255542.0
+		nombre de vehicules etudies : 990
+
+
+	2001
+		INFIN
+		emissions moyennes : 317.9513888888889	pour
+		somme des emissions : 22892.5
+		nombre de vehicules etudies : 72
+
+
+	2001
+		KIA
+		emissions moyennes : 254.36111111111111	pour
+		somme des emissions : 36628.0
+		nombre de vehicules etudies : 144
+
+
+	2001
+		ISUZU
+		emissions moyennes : 338.4375	pour
+		somme des emissions : 8122.5
+		nombre de vehicules etudies : 24
+
+
+	2001
+		DAEWO
+		emissions moyennes : 228.89285714285714	pour
+		somme des emissions : 3204.5
+		nombre de vehicules etudies : 14
+
+
+	2001
+		PLYMO
+		emissions moyennes : 311.0	pour
+		somme des emissions : 2177.0
+		nombre de vehicules etudies : 7
+
+
+
+
+
+	2002
+	emissions moyennes : 253.2940162169343	pour
+	somme des emissions : 18388892.283333212
+	nombre de vehicules etudies : 72599
+
+	2002
+		ACURA
+		emissions moyennes : 227.87047876331695	pour
+		somme des emissions : 506100.33333332697
+		nombre de vehicules etudies : 2221
+
+
+	2002
+		AUDI
+		emissions moyennes : 268.7613378684808	pour
+		somme des emissions : 158031.66666666672
+		nombre de vehicules etudies : 588
+
+
+	2002
+		BMW
+		emissions moyennes : 284.0778721682862	pour
+		somme des emissions : 234080.16666666782
+		nombre de vehicules etudies : 824
+
+
+	2002
+		BUICK
+		emissions moyennes : 270.69901168014377	pour
+		somme des emissions : 301288.0
+		nombre de vehicules etudies : 1113
+
+
+	2002
+		CADIL
+		emissions moyennes : 351.8427947598253	pour
+		somme des emissions : 80572.0
+		nombre de vehicules etudies : 229
+
+
+	2002
+		CHEVR
+		emissions moyennes : 264.97379318504494	pour
+		somme des emissions : 1119779.25
+		nombre de vehicules etudies : 4226
+
+
+	2002
+		CHRYS
+		emissions moyennes : 262.46069182389897	pour
+		somme des emissions : 584237.4999999991
+		nombre de vehicules etudies : 2226
+
+
+	2002
+		DODGE
+		emissions moyennes : 341.96017255072525	pour
+		somme des emissions : 1578830.1166666984
+		nombre de vehicules etudies : 4617
+
+
+	2002
+		FORD
+		emissions moyennes : 313.9694290245837	pour
+		somme des emissions : 1979577.25
+		nombre de vehicules etudies : 6305
+
+
+	2002
+		GMC
+		emissions moyennes : 348.07984420642646	pour
+		somme des emissions : 357478.0
+		nombre de vehicules etudies : 1027
+
+
+	2002
+		HONDA
+		emissions moyennes : 213.63953654698898	pour
+		somme des emissions : 2987108.0
+		nombre de vehicules etudies : 13982
+
+
+	2002
+		HYUND
+		emissions moyennes : 230.18844696969697	pour
+		somme des emissions : 729237.0
+		nombre de vehicules etudies : 3168
+
+
+	2002
+		INFIN
+		emissions moyennes : 299.3955223880597	pour
+		somme des emissions : 40119.0
+		nombre de vehicules etudies : 134
+
+
+	2002
+		JAGUA
+		emissions moyennes : 286.29918032786884	pour
+		somme des emissions : 34928.5
+		nombre de vehicules etudies : 122
+
+
+	2002
+		JEEP
+		emissions moyennes : 352.7353579175705	pour
+		somme des emissions : 650444.0
+		nombre de vehicules etudies : 1844
+
+
+	2002
+		KIA
+		emissions moyennes : 269.9462686567164	pour
+		somme des emissions : 90432.0
+		nombre de vehicules etudies : 335
+
+
+	2002
+		LANDR
+		emissions moyennes : 411.5128205128205	pour
+		somme des emissions : 16049.0
+		nombre de vehicules etudies : 39
+
+
+	2002
+		LEXUS
+		emissions moyennes : 282.90487804878046	pour
+		somme des emissions : 115991.0
+		nombre de vehicules etudies : 410
+
+
+	2002
+		LINCO
+		emissions moyennes : 316.73451327433645	pour
+		somme des emissions : 35791.00000000002
+		nombre de vehicules etudies : 113
+
+
+	2002
+		MAZDA
+		emissions moyennes : 261.2995333585573	pour
+		somme des emissions : 690614.666666667
+		nombre de vehicules etudies : 2643
+
+
+	2002
+		MERCE
+		emissions moyennes : 293.4047019311501	pour
+		somme des emissions : 232963.3333333332
+		nombre de vehicules etudies : 794
+
+
+	2002
+		NISSA
+		emissions moyennes : 256.90041560102304	pour
+		somme des emissions : 803584.5
+		nombre de vehicules etudies : 3128
+
+
+	2002
+		OLDSM
+		emissions moyennes : 259.9400584795322	pour
+		somme des emissions : 177799.0
+		nombre de vehicules etudies : 684
+
+
+	2002
+		PONTI
+		emissions moyennes : 250.38546049555868	pour
+		somme des emissions : 535574.5
+		nombre de vehicules etudies : 2139
+
+
+	2002
+		PORSC
+		emissions moyennes : 298.9854368932039	pour
+		somme des emissions : 61591.0
+		nombre de vehicules etudies : 206
+
+
+	2002
+		SATUR
+		emissions moyennes : 223.7912326388889	pour
+		somme des emissions : 85935.83333333334
+		nombre de vehicules etudies : 384
+
+
+	2002
+		SUBAR
+		emissions moyennes : 260.0913043478261	pour
+		somme des emissions : 329015.5
+		nombre de vehicules etudies : 1265
+
+
+	2002
+		SUZUK
+		emissions moyennes : 286.81297709923666	pour
+		somme des emissions : 300580.0
+		nombre de vehicules etudies : 1048
+
+
+	2002
+		TOYOT
+		emissions moyennes : 211.15908394607825	pour
+		somme des emissions : 2527151.9166666646
+		nombre de vehicules etudies : 11968
+
+
+	2002
+		VOLKS
+		emissions moyennes : 199.77780914737423	pour
+		somme des emissions : 707612.9999999995
+		nombre de vehicules etudies : 3542
+
+
+	2002
+		VOLVO
+		emissions moyennes : 262.2751517779705	pour
+		somme des emissions : 302403.25
+		nombre de vehicules etudies : 1153
+
+
+	2002
+		SAAB
+		emissions moyennes : 254.6453488372093	pour
+		somme des emissions : 21899.5
+		nombre de vehicules etudies : 86
+
+
+	2002
+		ISUZU
+		emissions moyennes : 338.75	pour
+		somme des emissions : 7452.5
+		nombre de vehicules etudies : 22
+
+
+	2002
+		DAEWO
+		emissions moyennes : 226.875	pour
+		somme des emissions : 1815.0
+		nombre de vehicules etudies : 8
+
+
+	2002
+		BENTL
+		emissions moyennes : 460.0	pour
+		somme des emissions : 460.0
+		nombre de vehicules etudies : 1
+
+
+	2002
+		FERRA
+		emissions moyennes : 473.0	pour
+		somme des emissions : 2365.0
+		nombre de vehicules etudies : 5
+
+
+
+
+
+	2003
+	emissions moyennes : 247.53767087338954	pour
+	somme des emissions : 27728922.353566222
+	nombre de vehicules etudies : 112019
+
+	2003
+		ACURA
+		emissions moyennes : 233.20532060027284	pour
+		somme des emissions : 512818.5
+		nombre de vehicules etudies : 2199
+
+
+	2003
+		AUDI
+		emissions moyennes : 262.58248778654445	pour
+		somme des emissions : 232910.66666666494
+		nombre de vehicules etudies : 887
+
+
+	2003
+		BMW
+		emissions moyennes : 287.98671978751725	pour
+		somme des emissions : 289138.6666666673
+		nombre de vehicules etudies : 1004
+
+
+	2003
+		BUICK
+		emissions moyennes : 271.7320107599193	pour
+		somme des emissions : 404065.5
+		nombre de vehicules etudies : 1487
+
+
+	2003
+		CADIL
+		emissions moyennes : 314.0314591700133	pour
+		somme des emissions : 156387.66666666663
+		nombre de vehicules etudies : 498
+
+
+	2003
+		CHEVR
+		emissions moyennes : 264.04238272177673	pour
+		somme des emissions : 1705449.7499999558
+		nombre de vehicules etudies : 6459
+
+
+	2003
+		CHRYS
+		emissions moyennes : 264.5157338727813	pour
+		somme des emissions : 392276.8333333347
+		nombre de vehicules etudies : 1483
+
+
+	2003
+		DODGE
+		emissions moyennes : 332.00585192933744	pour
+		somme des emissions : 2380481.9583333493
+		nombre de vehicules etudies : 7170
+
+
+	2003
+		FERRA
+		emissions moyennes : 472.0	pour
+		somme des emissions : 5192.0
+		nombre de vehicules etudies : 11
+
+
+	2003
+		FORD
+		emissions moyennes : 306.20701323813694	pour
+		somme des emissions : 2744839.6666666595
+		nombre de vehicules etudies : 8964
+
+
+	2003
+		GMC
+		emissions moyennes : 357.6319642857143	pour
+		somme des emissions : 500684.75
+		nombre de vehicules etudies : 1400
+
+
+	2003
+		HONDA
+		emissions moyennes : 216.87627110277572	pour
+		somme des emissions : 4393479.500000031
+		nombre de vehicules etudies : 20258
+
+
+	2003
+		HYUND
+		emissions moyennes : 232.50247418244408	pour
+		somme des emissions : 1080671.5
+		nombre de vehicules etudies : 4648
+
+
+	2003
+		INFIN
+		emissions moyennes : 284.44570502431117	pour
+		somme des emissions : 175503.0
+		nombre de vehicules etudies : 617
+
+
+	2003
+		JAGUA
+		emissions moyennes : 285.14102564102564	pour
+		somme des emissions : 44482.0
+		nombre de vehicules etudies : 156
+
+
+	2003
+		JEEP
+		emissions moyennes : 320.06356517733764	pour
+		somme des emissions : 694858.0
+		nombre de vehicules etudies : 2171
+
+
+	2003
+		KIA
+		emissions moyennes : 286.8633474576271	pour
+		somme des emissions : 270799.0
+		nombre de vehicules etudies : 944
+
+
+	2003
+		LEXUS
+		emissions moyennes : 281.01617250673854	pour
+		somme des emissions : 104257.0
+		nombre de vehicules etudies : 371
+
+
+	2003
+		LINCO
+		emissions moyennes : 316.8353293413174	pour
+		somme des emissions : 52911.5
+		nombre de vehicules etudies : 167
+
+
+	2003
+		MAZDA
+		emissions moyennes : 262.95508611665736	pour
+		somme des emissions : 921131.6666666508
+		nombre de vehicules etudies : 3503
+
+
+	2003
+		MERCE
+		emissions moyennes : 291.8814664502157	pour
+		somme des emissions : 359597.9666666658
+		nombre de vehicules etudies : 1232
+
+
+	2003
+		MITSU
+		emissions moyennes : 251.82502360717726	pour
+		somme des emissions : 266682.7000000007
+		nombre de vehicules etudies : 1059
+
+
+	2003
+		NISSA
+		emissions moyennes : 253.5723490918805	pour
+		somme des emissions : 1265833.1666666674
+		nombre de vehicules etudies : 4992
+
+
+	2003
+		OLDSM
+		emissions moyennes : 240.82290279627165	pour
+		somme des emissions : 180858.0
+		nombre de vehicules etudies : 751
+
+
+	2003
+		PONTI
+		emissions moyennes : 231.1247143945164	pour
+		somme des emissions : 1213867.0
+		nombre de vehicules etudies : 5252
+
+
+	2003
+		PORSC
+		emissions moyennes : 295.6931818181818	pour
+		somme des emissions : 52042.0
+		nombre de vehicules etudies : 176
+
+
+	2003
+		SATUR
+		emissions moyennes : 234.72071028758978	pour
+		somme des emissions : 405362.66666666756
+		nombre de vehicules etudies : 1727
+
+
+	2003
+		SUBAR
+		emissions moyennes : 259.6200266514401	pour
+		somme des emissions : 454594.6666666717
+		nombre de vehicules etudies : 1751
+
+
+	2003
+		SUZUK
+		emissions moyennes : 249.94869955156685	pour
+		somme des emissions : 278692.799999997
+		nombre de vehicules etudies : 1115
+
+
+	2003
+		TOYOT
+		emissions moyennes : 208.79417478926916	pour
+		somme des emissions : 4825859.761904378
+		nombre de vehicules etudies : 23113
+
+
+	2003
+		VOLKS
+		emissions moyennes : 198.99782403027436	pour
+		somme des emissions : 1051703.5
+		nombre de vehicules etudies : 5285
+
+
+	2003
+		VOLVO
+		emissions moyennes : 266.7508960573477	pour
+		somme des emissions : 223270.5
+		nombre de vehicules etudies : 837
+
+
+	2003
+		MINI
+		emissions moyennes : 207.0	pour
+		somme des emissions : 30636.0
+		nombre de vehicules etudies : 148
+
+
+	2003
+		SAAB
+		emissions moyennes : 251.08407079646017	pour
+		somme des emissions : 28372.5
+		nombre de vehicules etudies : 113
+
+
+	2003
+		LANDR
+		emissions moyennes : 410.463768115942	pour
+		somme des emissions : 28322.0
+		nombre de vehicules etudies : 69
+
+
+	2003
+		MASER
+		emissions moyennes : 444.0	pour
+		somme des emissions : 888.0
+		nombre de vehicules etudies : 2
+
+
+
+
+
+	2004
+	emissions moyennes : 248.79856570017503	pour
+	somme des emissions : 30362132.96522086
+	nombre de vehicules etudies : 122035
+
+	2004
+		ACURA
+		emissions moyennes : 233.81923320658947	pour
+		somme des emissions : 491955.66666666424
+		nombre de vehicules etudies : 2104
+
+
+	2004
+		AUDI
+		emissions moyennes : 265.88832033788395	pour
+		somme des emissions : 272801.41666666896
+		nombre de vehicules etudies : 1026
+
+
+	2004
+		BMW
+		emissions moyennes : 281.59177474880846	pour
+		somme des emissions : 426329.946969696
+		nombre de vehicules etudies : 1514
+
+
+	2004
+		BUICK
+		emissions moyennes : 279.21634615384613	pour
+		somme des emissions : 377500.5
+		nombre de vehicules etudies : 1352
+
+
+	2004
+		CADIL
+		emissions moyennes : 313.6356275303644	pour
+		somme des emissions : 154936.0
+		nombre de vehicules etudies : 494
+
+
+	2004
+		CHEVR
+		emissions moyennes : 253.3095585552718	pour
+		somme des emissions : 2082964.5
+		nombre de vehicules etudies : 8223
+
+
+	2004
+		CHRYS
+		emissions moyennes : 259.10144993410023	pour
+		somme des emissions : 814355.857142877
+		nombre de vehicules etudies : 3143
+
+
+	2004
+		DODGE
+		emissions moyennes : 339.7557890986819	pour
+		somme des emissions : 1907389.0
+		nombre de vehicules etudies : 5614
+
+
+	2004
+		FORD
+		emissions moyennes : 326.27531572624827	pour
+		somme des emissions : 2956706.9111112617
+		nombre de vehicules etudies : 9062
+
+
+	2004
+		GMC
+		emissions moyennes : 349.21603840682786	pour
+		somme des emissions : 490997.75
+		nombre de vehicules etudies : 1406
+
+
+	2004
+		HONDA
+		emissions moyennes : 213.31609753312014	pour
+		somme des emissions : 3735591.5
+		nombre de vehicules etudies : 17512
+
+
+	2004
+		HYUND
+		emissions moyennes : 233.5514028815973	pour
+		somme des emissions : 1437275.3333333498
+		nombre de vehicules etudies : 6154
+
+
+	2004
+		INFIN
+		emissions moyennes : 293.69710806696935	pour
+		somme des emissions : 192958.99999999886
+		nombre de vehicules etudies : 657
+
+
+	2004
+		JAGUA
+		emissions moyennes : 283.5124223602484	pour
+		somme des emissions : 45645.5
+		nombre de vehicules etudies : 161
+
+
+	2004
+		JEEP
+		emissions moyennes : 331.5365296803653	pour
+		somme des emissions : 871278.0
+		nombre de vehicules etudies : 2628
+
+
+	2004
+		KIA
+		emissions moyennes : 296.24607329842934	pour
+		somme des emissions : 339498.0
+		nombre de vehicules etudies : 1146
+
+
+	2004
+		LANDR
+		emissions moyennes : 411.0975609756098	pour
+		somme des emissions : 33710.0
+		nombre de vehicules etudies : 82
+
+
+	2004
+		LEXUS
+		emissions moyennes : 279.7008547008547	pour
+		somme des emissions : 163625.0
+		nombre de vehicules etudies : 585
+
+
+	2004
+		MAZDA
+		emissions moyennes : 242.47447169520285	pour
+		somme des emissions : 1571962.0
+		nombre de vehicules etudies : 6483
+
+
+	2004
+		MERCE
+		emissions moyennes : 291.23053278688525	pour
+		somme des emissions : 284241.0
+		nombre de vehicules etudies : 976
+
+
+	2004
+		MINI
+		emissions moyennes : 207.0	pour
+		somme des emissions : 54648.0
+		nombre de vehicules etudies : 264
+
+
+	2004
+		MITSU
+		emissions moyennes : 246.88833693304565	pour
+		somme des emissions : 228618.60000000027
+		nombre de vehicules etudies : 926
+
+
+	2004
+		NISSA
+		emissions moyennes : 250.7159316486932	pour
+		somme des emissions : 1557698.083333331
+		nombre de vehicules etudies : 6213
+
+
+	2004
+		OLDSM
+		emissions moyennes : 237.2194092827004	pour
+		somme des emissions : 112442.0
+		nombre de vehicules etudies : 474
+
+
+	2004
+		PONTI
+		emissions moyennes : 234.08602407083302	pour
+		somme des emissions : 1471698.8333333272
+		nombre de vehicules etudies : 6287
+
+
+	2004
+		SAAB
+		emissions moyennes : 255.140625	pour
+		somme des emissions : 48987.0
+		nombre de vehicules etudies : 192
+
+
+	2004
+		SATUR
+		emissions moyennes : 233.4061898415526	pour
+		somme des emissions : 525397.3333333349
+		nombre de vehicules etudies : 2251
+
+
+	2004
+		SUBAR
+		emissions moyennes : 265.1418589174755	pour
+		somme des emissions : 597629.7499999898
+		nombre de vehicules etudies : 2254
+
+
+	2004
+		SUZUK
+		emissions moyennes : 246.77862456904563	pour
+		somme des emissions : 453332.3333333368
+		nombre de vehicules etudies : 1837
+
+
+	2004
+		TOYOT
+		emissions moyennes : 206.9168525172433	pour
+		somme des emissions : 5010077.750000012
+		nombre de vehicules etudies : 24213
+
+
+	2004
+		VOLKS
+		emissions moyennes : 207.54549169163715	pour
+		somme des emissions : 761899.5
+		nombre de vehicules etudies : 3671
+
+
+	2004
+		VOLVO
+		emissions moyennes : 273.2860962566845	pour
+		somme des emissions : 766567.5
+		nombre de vehicules etudies : 2805
+
+
+	2004
+		FERRA
+		emissions moyennes : 472.8000000000001	pour
+		somme des emissions : 6146.4000000000015
+		nombre de vehicules etudies : 13
+
+
+	2004
+		LINCO
+		emissions moyennes : 337.7100591715976	pour
+		somme des emissions : 57073.0
+		nombre de vehicules etudies : 169
+
+
+	2004
+		PORSC
+		emissions moyennes : 402.5	pour
+		somme des emissions : 55545.0
+		nombre de vehicules etudies : 138
+
+
+	2004
+		MASER
+		emissions moyennes : 441.5	pour
+		somme des emissions : 2649.0
+		nombre de vehicules etudies : 6
+
+
+
+
+
+	2005
+	emissions moyennes : 242.28248526791734	pour
+	somme des emissions : 41054282.563678056
+	nombre de vehicules etudies : 169448
+
+	2005
+		ACURA
+		emissions moyennes : 239.16931479642503	pour
+		somme des emissions : 722530.5
+		nombre de vehicules etudies : 3021
+
+
+	2005
+		AUDI
+		emissions moyennes : 266.27066656404224	pour
+		somme des emissions : 247099.1785714312
+		nombre de vehicules etudies : 928
+
+
+	2005
+		BMW
+		emissions moyennes : 289.43057270344667	pour
+		somme des emissions : 404913.37121212186
+		nombre de vehicules etudies : 1399
+
+
+	2005
+		BUICK
+		emissions moyennes : 266.7353358561968	pour
+		somme des emissions : 563878.5
+		nombre de vehicules etudies : 2114
+
+
+	2005
+		CADIL
+		emissions moyennes : 318.74198473282445	pour
+		somme des emissions : 208776.0
+		nombre de vehicules etudies : 655
+
+
+	2005
+		CHEVR
+		emissions moyennes : 254.41126094706658	pour
+		somme des emissions : 3282668.5
+		nombre de vehicules etudies : 12903
+
+
+	2005
+		CHRYS
+		emissions moyennes : 272.1090620420146	pour
+		somme des emissions : 1114014.500000008
+		nombre de vehicules etudies : 4094
+
+
+	2005
+		DODGE
+		emissions moyennes : 312.39794361449094	pour
+		somme des emissions : 3429504.6249998817
+		nombre de vehicules etudies : 10978
+
+
+	2005
+		FORD
+		emissions moyennes : 289.56078764965184	pour
+		somme des emissions : 3829441.4166666456
+		nombre de vehicules etudies : 13225
+
+
+	2005
+		GMC
+		emissions moyennes : 336.65795173267327	pour
+		somme des emissions : 544039.25
+		nombre de vehicules etudies : 1616
+
+
+	2005
+		HONDA
+		emissions moyennes : 209.63941074580927	pour
+		somme des emissions : 4195723.166666627
+		nombre de vehicules etudies : 20014
+
+
+	2005
+		HYUND
+		emissions moyennes : 238.12637227087694	pour
+		somme des emissions : 1930490.4999999993
+		nombre de vehicules etudies : 8107
+
+
+	2005
+		INFIN
+		emissions moyennes : 301.7796153846154	pour
+		somme des emissions : 196156.75
+		nombre de vehicules etudies : 650
+
+
+	2005
+		JEEP
+		emissions moyennes : 334.2225845902976	pour
+		somme des emissions : 819848.0
+		nombre de vehicules etudies : 2453
+
+
+	2005
+		KIA
+		emissions moyennes : 267.8411881845337	pour
+		somme des emissions : 807005.5
+		nombre de vehicules etudies : 3013
+
+
+	2005
+		LEXUS
+		emissions moyennes : 275.37971274685816	pour
+		somme des emissions : 153386.5
+		nombre de vehicules etudies : 557
+
+
+	2005
+		LINCO
+		emissions moyennes : 324.8170731707317	pour
+		somme des emissions : 53270.0
+		nombre de vehicules etudies : 164
+
+
+	2005
+		MAZDA
+		emissions moyennes : 234.27998526522595	pour
+		somme des emissions : 2384970.25
+		nombre de vehicules etudies : 10180
+
+
+	2005
+		MERCE
+		emissions moyennes : 278.42002812939467	pour
+		somme des emissions : 329927.7333333327
+		nombre de vehicules etudies : 1185
+
+
+	2005
+		MITSU
+		emissions moyennes : 249.10775700934573	pour
+		somme des emissions : 266545.29999999993
+		nombre de vehicules etudies : 1070
+
+
+	2005
+		NISSA
+		emissions moyennes : 237.25062602425393	pour
+		somme des emissions : 2412838.8666666625
+		nombre de vehicules etudies : 10170
+
+
+	2005
+		PONTI
+		emissions moyennes : 232.57113894667077	pour
+		somme des emissions : 2571539.0833333386
+		nombre de vehicules etudies : 11057
+
+
+	2005
+		SAAB
+		emissions moyennes : 258.664027370479	pour
+		somme des emissions : 88204.43333333335
+		nombre de vehicules etudies : 341
+
+
+	2005
+		SATUR
+		emissions moyennes : 240.84423018981622	pour
+		somme des emissions : 799362.0
+		nombre de vehicules etudies : 3319
+
+
+	2005
+		SMART
+		emissions moyennes : 140.0	pour
+		somme des emissions : 36120.0
+		nombre de vehicules etudies : 258
+
+
+	2005
+		SUBAR
+		emissions moyennes : 257.54996970959365	pour
+		somme des emissions : 971736.0357142969
+		nombre de vehicules etudies : 3773
+
+
+	2005
+		SUZUK
+		emissions moyennes : 232.90683760683493	pour
+		somme des emissions : 272500.99999999686
+		nombre de vehicules etudies : 1170
+
+
+	2005
+		TOYOT
+		emissions moyennes : 197.64001246651975	pour
+		somme des emissions : 6990724.88095327
+		nombre de vehicules etudies : 35371
+
+
+	2005
+		VOLKS
+		emissions moyennes : 213.0956532416503	pour
+		somme des emissions : 433862.75
+		nombre de vehicules etudies : 2036
+
+
+	2005
+		VOLVO
+		emissions moyennes : 273.10480553477936	pour
+		somme des emissions : 730282.25
+		nombre de vehicules etudies : 2674
+
+
+	2005
+		MINI
+		emissions moyennes : 210.16666666666785	pour
+		somme des emissions : 104242.66666666725
+		nombre de vehicules etudies : 496
+
+
+	2005
+		PORSC
+		emissions moyennes : 362.0876483279399	pour
+		somme des emissions : 74590.05555555562
+		nombre de vehicules etudies : 206
+
+
+	2005
+		LANDR
+		emissions moyennes : 380.40449438202245	pour
+		somme des emissions : 33856.0
+		nombre de vehicules etudies : 89
+
+
+	2005
+		JAGUA
+		emissions moyennes : 289.2338129496403	pour
+		somme des emissions : 40203.5
+		nombre de vehicules etudies : 139
+
+
+	2005
+		BENTL
+		emissions moyennes : 437.0	pour
+		somme des emissions : 5244.0
+		nombre de vehicules etudies : 12
+
+
+	2005
+		MASER
+		emissions moyennes : 438.75	pour
+		somme des emissions : 3510.0
+		nombre de vehicules etudies : 8
+
+
+	2005
+		ROLLS
+		emissions moyennes : 403.0	pour
+		somme des emissions : 806.0
+		nombre de vehicules etudies : 2
+
+
+	2005
+		FERRA
+		emissions moyennes : 469.5	pour
+		somme des emissions : 469.5
+		nombre de vehicules etudies : 1
+
+
+
+
+
+	2006
+	emissions moyennes : 242.93759204691992	pour
+	somme des emissions : 45569990.57856919
+	nombre de vehicules etudies : 187579
+
+	2006
+		ACURA
+		emissions moyennes : 232.2260151717983	pour
+		somme des emissions : 520418.5
+		nombre de vehicules etudies : 2241
+
+
+	2006
+		AUDI
+		emissions moyennes : 246.93262806235802	pour
+		somme des emissions : 443490.999999995
+		nombre de vehicules etudies : 1796
+
+
+	2006
+		BMW
+		emissions moyennes : 277.4540376442015	pour
+		somme des emissions : 761611.3333333331
+		nombre de vehicules etudies : 2745
+
+
+	2006
+		BUICK
+		emissions moyennes : 274.1323461360481	pour
+		somme des emissions : 592400.0
+		nombre de vehicules etudies : 2161
+
+
+	2006
+		CADIL
+		emissions moyennes : 303.97965367965367	pour
+		somme des emissions : 351096.5
+		nombre de vehicules etudies : 1155
+
+
+	2006
+		CHEVR
+		emissions moyennes : 250.633648431217	pour
+		somme des emissions : 3738451.500000033
+		nombre de vehicules etudies : 14916
+
+
+	2006
+		CHRYS
+		emissions moyennes : 274.6308997050214	pour
+		somme des emissions : 868932.1666666878
+		nombre de vehicules etudies : 3164
+
+
+	2006
+		DODGE
+		emissions moyennes : 304.50074596247595	pour
+		somme des emissions : 2721323.1666666474
+		nombre de vehicules etudies : 8937
+
+
+	2006
+		FORD
+		emissions moyennes : 291.07954726837534	pour
+		somme des emissions : 4011949.400000017
+		nombre de vehicules etudies : 13783
+
+
+	2006
+		GMC
+		emissions moyennes : 317.11379236379133	pour
+		somme des emissions : 316796.67857142753
+		nombre de vehicules etudies : 999
+
+
+	2006
+		HONDA
+		emissions moyennes : 212.44930291508294	pour
+		somme des emissions : 5643290.833333348
+		nombre de vehicules etudies : 26563
+
+
+	2006
+		HUMME
+		emissions moyennes : 348.5	pour
+		somme des emissions : 120581.0
+		nombre de vehicules etudies : 346
+
+
+	2006
+		HYUND
+		emissions moyennes : 227.97769427566357	pour
+		somme des emissions : 2851545.0
+		nombre de vehicules etudies : 12508
+
+
+	2006
+		INFIN
+		emissions moyennes : 291.7337588652462	pour
+		somme des emissions : 205672.2999999986
+		nombre de vehicules etudies : 705
+
+
+	2006
+		JEEP
+		emissions moyennes : 327.6072298943948	pour
+		somme des emissions : 806569.0
+		nombre de vehicules etudies : 2462
+
+
+	2006
+		KIA
+		emissions moyennes : 236.5406976744186	pour
+		somme des emissions : 1200207.5
+		nombre de vehicules etudies : 5074
+
+
+	2006
+		LANDR
+		emissions moyennes : 382.4583333333333	pour
+		somme des emissions : 91790.0
+		nombre de vehicules etudies : 240
+
+
+	2006
+		LEXUS
+		emissions moyennes : 256.83023543990254	pour
+		somme des emissions : 207262.00000000137
+		nombre de vehicules etudies : 807
+
+
+	2006
+		LINCO
+		emissions moyennes : 301.77793696275074	pour
+		somme des emissions : 105320.5
+		nombre de vehicules etudies : 349
+
+
+	2006
+		MAZDA
+		emissions moyennes : 231.71053986983515	pour
+		somme des emissions : 3299094.6666667126
+		nombre de vehicules etudies : 14238
+
+
+	2006
+		MERCE
+		emissions moyennes : 287.3521852355072	pour
+		somme des emissions : 422982.4166666666
+		nombre de vehicules etudies : 1472
+
+
+	2006
+		MINI
+		emissions moyennes : 214.625	pour
+		somme des emissions : 143369.5
+		nombre de vehicules etudies : 668
+
+
+	2006
+		MITSU
+		emissions moyennes : 245.30349531116795	pour
+		somme des emissions : 575482.0
+		nombre de vehicules etudies : 2346
+
+
+	2006
+		NISSA
+		emissions moyennes : 245.17370572206792	pour
+		somme des emissions : 2339447.499999972
+		nombre de vehicules etudies : 9542
+
+
+	2006
+		PONTI
+		emissions moyennes : 239.8805197979473	pour
+		somme des emissions : 2944293.500000005
+		nombre de vehicules etudies : 12274
+
+
+	2006
+		PORSC
+		emissions moyennes : 347.7256515775036	pour
+		somme des emissions : 84497.33333333337
+		nombre de vehicules etudies : 243
+
+
+	2006
+		SAAB
+		emissions moyennes : 266.5575091575098	pour
+		somme des emissions : 121283.66666666696
+		nombre de vehicules etudies : 455
+
+
+	2006
+		SATUR
+		emissions moyennes : 234.82936623831776	pour
+		somme des emissions : 804055.75
+		nombre de vehicules etudies : 3424
+
+
+	2006
+		SMART
+		emissions moyennes : 140.0	pour
+		somme des emissions : 75180.0
+		nombre de vehicules etudies : 537
+
+
+	2006
+		SUBAR
+		emissions moyennes : 264.20483478423455	pour
+		somme des emissions : 940833.4166666593
+		nombre de vehicules etudies : 3561
+
+
+	2006
+		SUZUK
+		emissions moyennes : 258.3520738597212	pour
+		somme des emissions : 624953.6666666656
+		nombre de vehicules etudies : 2419
+
+
+	2006
+		TOYOT
+		emissions moyennes : 208.48962110169444	pour
+		somme des emissions : 5577722.833333631
+		nombre de vehicules etudies : 26753
+
+
+	2006
+		VOLKS
+		emissions moyennes : 214.52062601773113	pour
+		somme des emissions : 1185655.5
+		nombre de vehicules etudies : 5527
+
+
+	2006
+		VOLVO
+		emissions moyennes : 274.1637540983615	pour
+		somme des emissions : 836199.4500000025
+		nombre de vehicules etudies : 3050
+
+
+	2006
+		JAGUA
+		emissions moyennes : 257.8255813953488	pour
+		somme des emissions : 22173.0
+		nombre de vehicules etudies : 86
+
+
+	2006
+		BENTL
+		emissions moyennes : 438.84615384615387	pour
+		somme des emissions : 5705.0
+		nombre de vehicules etudies : 13
+
+
+	2006
+		FERRA
+		emissions moyennes : 421.7857142857143	pour
+		somme des emissions : 5905.0
+		nombre de vehicules etudies : 14
+
+
+	2006
+		MASER
+		emissions moyennes : 408.0	pour
+		somme des emissions : 2448.0
+		nombre de vehicules etudies : 6
+
+
+
+
+
+	2007
+	emissions moyennes : 235.0361520481569	pour
+	somme des emissions : 59876869.951180264
+	nombre de vehicules etudies : 254756
+
+	2007
+		ACURA
+		emissions moyennes : 264.7008664828673	pour
+		somme des emissions : 672075.5
+		nombre de vehicules etudies : 2539
+
+
+	2007
+		AUDI
+		emissions moyennes : 261.87043243243545	pour
+		somme des emissions : 484460.3000000056
+		nombre de vehicules etudies : 1850
+
+
+	2007
+		BMW
+		emissions moyennes : 269.68921223303175	pour
+		somme des emissions : 803943.5416666677
+		nombre de vehicules etudies : 2981
+
+
+	2007
+		BUICK
+		emissions moyennes : 269.2072184194151	pour
+		somme des emissions : 432616.0
+		nombre de vehicules etudies : 1607
+
+
+	2007
+		CADIL
+		emissions moyennes : 315.5740439381611	pour
+		somme des emissions : 387840.5
+		nombre de vehicules etudies : 1229
+
+
+	2007
+		CHEVR
+		emissions moyennes : 258.6349477255046	pour
+		somme des emissions : 4962946.011904708
+		nombre de vehicules etudies : 19189
+
+
+	2007
+		CHRYS
+		emissions moyennes : 267.11047935619314	pour
+		somme des emissions : 763401.75
+		nombre de vehicules etudies : 2858
+
+
+	2007
+		DODGE
+		emissions moyennes : 280.51506204387124	pour
+		somme des emissions : 4061577.583333212
+		nombre de vehicules etudies : 14479
+
+
+	2007
+		FORD
+		emissions moyennes : 282.1775704396985	pour
+		somme des emissions : 4823825.566666646
+		nombre de vehicules etudies : 17095
+
+
+	2007
+		GMC
+		emissions moyennes : 336.816305484271	pour
+		somme des emissions : 1181214.7833333386
+		nombre de vehicules etudies : 3507
+
+
+	2007
+		HONDA
+		emissions moyennes : 204.2794504574538	pour
+		somme des emissions : 6832330.5
+		nombre de vehicules etudies : 33446
+
+
+	2007
+		HUMME
+		emissions moyennes : 363.5	pour
+		somme des emissions : 81787.5
+		nombre de vehicules etudies : 225
+
+
+	2007
+		HYUND
+		emissions moyennes : 221.54954105048444	pour
+		somme des emissions : 4344586.5
+		nombre de vehicules etudies : 19610
+
+
+	2007
+		INFIN
+		emissions moyennes : 292.5071583514123	pour
+		somme des emissions : 269691.60000000213
+		nombre de vehicules etudies : 922
+
+
+	2007
+		JEEP
+		emissions moyennes : 291.74539935496495	pour
+		somme des emissions : 1537790.0000000203
+		nombre de vehicules etudies : 5271
+
+
+	2007
+		KIA
+		emissions moyennes : 229.7284213515053	pour
+		somme des emissions : 1348505.833333336
+		nombre de vehicules etudies : 5870
+
+
+	2007
+		LEXUS
+		emissions moyennes : 251.22001325380927	pour
+		somme des emissions : 379090.9999999982
+		nombre de vehicules etudies : 1509
+
+
+	2007
+		LINCO
+		emissions moyennes : 303.55371900826447	pour
+		somme des emissions : 146920.0
+		nombre de vehicules etudies : 484
+
+
+	2007
+		MASER
+		emissions moyennes : 363.0	pour
+		somme des emissions : 2904.0
+		nombre de vehicules etudies : 8
+
+
+	2007
+		MAZDA
+		emissions moyennes : 237.24273876428254	pour
+		somme des emissions : 4685781.333333344
+		nombre de vehicules etudies : 19751
+
+
+	2007
+		MERCE
+		emissions moyennes : 279.51049039433775	pour
+		somme des emissions : 552871.7500000001
+		nombre de vehicules etudies : 1978
+
+
+	2007
+		MINI
+		emissions moyennes : 206.25	pour
+		somme des emissions : 111787.5
+		nombre de vehicules etudies : 542
+
+
+	2007
+		MITSU
+		emissions moyennes : 270.66381850324103	pour
+		somme des emissions : 459316.5
+		nombre de vehicules etudies : 1697
+
+
+	2007
+		NISSA
+		emissions moyennes : 210.9368572506735	pour
+		somme des emissions : 2980959.666666518
+		nombre de vehicules etudies : 14132
+
+
+	2007
+		PONTI
+		emissions moyennes : 230.6364365386026	pour
+		somme des emissions : 3163640.0000000116
+		nombre de vehicules etudies : 13717
+
+
+	2007
+		SAAB
+		emissions moyennes : 265.145885286783	pour
+		somme des emissions : 106323.5
+		nombre de vehicules etudies : 401
+
+
+	2007
+		SATUR
+		emissions moyennes : 238.26355013550136	pour
+		somme des emissions : 1055031.0
+		nombre de vehicules etudies : 4428
+
+
+	2007
+		SUBAR
+		emissions moyennes : 258.06185050707586	pour
+		somme des emissions : 883345.7142857207
+		nombre de vehicules etudies : 3423
+
+
+	2007
+		SUZUK
+		emissions moyennes : 247.17159175564936	pour
+		somme des emissions : 995360.0
+		nombre de vehicules etudies : 4027
+
+
+	2007
+		TOYOT
+		emissions moyennes : 194.5859937939939	pour
+		somme des emissions : 9343630.25
+		nombre de vehicules etudies : 48018
+
+
+	2007
+		VOLKS
+		emissions moyennes : 237.83135180677775	pour
+		somme des emissions : 1270257.25
+		nombre de vehicules etudies : 5341
+
+
+	2007
+		VOLVO
+		emissions moyennes : 277.975625294951	pour
+		somme des emissions : 589030.3500000011
+		nombre de vehicules etudies : 2119
+
+
+	2007
+		ASTON
+		emissions moyennes : 372.0217391304348	pour
+		somme des emissions : 8556.5
+		nombre de vehicules etudies : 23
+
+
+	2007
+		LANDR
+		emissions moyennes : 380.5113636363636	pour
+		somme des emissions : 50227.5
+		nombre de vehicules etudies : 132
+
+
+	2007
+		PORSC
+		emissions moyennes : 276.0132158590308	pour
+		somme des emissions : 62655.0
+		nombre de vehicules etudies : 227
+
+
+	2007
+		JAGUA
+		emissions moyennes : 291.36746987951807	pour
+		somme des emissions : 24183.5
+		nombre de vehicules etudies : 83
+
+
+	2007
+		BENTL
+		emissions moyennes : 433.68	pour
+		somme des emissions : 10842.0
+		nombre de vehicules etudies : 25
+
+
+	2007
+		FERRA
+		emissions moyennes : 428.0416666666667	pour
+		somme des emissions : 5136.5
+		nombre de vehicules etudies : 12
+
+
+	2007
+		LAMBO
+		emissions moyennes : 425.6666666666667	pour
+		somme des emissions : 425.6666666666667
+		nombre de vehicules etudies : 1
+
+
+
+
+
+	2008
+	emissions moyennes : 236.58877723641763	pour
+	somme des emissions : 61530826.239761315
+	nombre de vehicules etudies : 260075
+
+	2008
+		ACURA
+		emissions moyennes : 269.04774110861905	pour
+		somme des emissions : 839698.0
+		nombre de vehicules etudies : 3121
+
+
+	2008
+		AUDI
+		emissions moyennes : 254.55719696969712	pour
+		somme des emissions : 453620.9250000003
+		nombre de vehicules etudies : 1782
+
+
+	2008
+		BMW
+		emissions moyennes : 270.9921052631559	pour
+		somme des emissions : 844411.3999999937
+		nombre de vehicules etudies : 3116
+
+
+	2008
+		BUICK
+		emissions moyennes : 269.7862258953168	pour
+		somme des emissions : 489662.0
+		nombre de vehicules etudies : 1815
+
+
+	2008
+		CADIL
+		emissions moyennes : 292.85771632471005	pour
+		somme des emissions : 328293.5
+		nombre de vehicules etudies : 1121
+
+
+	2008
+		CHEVR
+		emissions moyennes : 250.7259134720846	pour
+		somme des emissions : 4063765.6055555474
+		nombre de vehicules etudies : 16208
+
+
+	2008
+		CHRYS
+		emissions moyennes : 271.8046103183315	pour
+		somme des emissions : 990456.0
+		nombre de vehicules etudies : 3644
+
+
+	2008
+		DODGE
+		emissions moyennes : 287.28653320793774	pour
+		somme des emissions : 4276547.333333361
+		nombre de vehicules etudies : 14886
+
+
+	2008
+		FORD
+		emissions moyennes : 286.28399901770194	pour
+		somme des emissions : 5440254.83333339
+		nombre de vehicules etudies : 19003
+
+
+	2008
+		GMC
+		emissions moyennes : 331.03341742960237	pour
+		somme des emissions : 1060631.069444446
+		nombre de vehicules etudies : 3204
+
+
+	2008
+		HONDA
+		emissions moyennes : 205.40273439678168	pour
+		somme des emissions : 7365331.249999798
+		nombre de vehicules etudies : 35858
+
+
+	2008
+		HUMME
+		emissions moyennes : 371.0162601626016	pour
+		somme des emissions : 45635.0
+		nombre de vehicules etudies : 123
+
+
+	2008
+		HYUND
+		emissions moyennes : 213.59806862928934	pour
+		somme des emissions : 4556474.0
+		nombre de vehicules etudies : 21332
+
+
+	2008
+		INFIN
+		emissions moyennes : 288.2922288855584	pour
+		somme des emissions : 384581.83333333494
+		nombre de vehicules etudies : 1334
+
+
+	2008
+		JEEP
+		emissions moyennes : 275.6652442094737	pour
+		somme des emissions : 2189884.7000000593
+		nombre de vehicules etudies : 7944
+
+
+	2008
+		KIA
+		emissions moyennes : 236.03327387777782	pour
+		somme des emissions : 1852625.1666666782
+		nombre de vehicules etudies : 7849
+
+
+	2008
+		LAMBO
+		emissions moyennes : 471.5	pour
+		somme des emissions : 2357.5
+		nombre de vehicules etudies : 5
+
+
+	2008
+		LANDR
+		emissions moyennes : 326.21965317919074	pour
+		somme des emissions : 112872.0
+		nombre de vehicules etudies : 346
+
+
+	2008
+		LEXUS
+		emissions moyennes : 251.27635510029748	pour
+		somme des emissions : 392493.66666666465
+		nombre de vehicules etudies : 1562
+
+
+	2008
+		LINCO
+		emissions moyennes : 293.97764705882355	pour
+		somme des emissions : 124940.5
+		nombre de vehicules etudies : 425
+
+
+	2008
+		MAZDA
+		emissions moyennes : 228.9795572411611	pour
+		somme des emissions : 5313012.666666661
+		nombre de vehicules etudies : 23203
+
+
+	2008
+		MERCE
+		emissions moyennes : 273.25557197389526	pour
+		somme des emissions : 739702.8333333345
+		nombre de vehicules etudies : 2707
+
+
+	2008
+		MINI
+		emissions moyennes : 197.08333333333226	pour
+		somme des emissions : 141702.9166666659
+		nombre de vehicules etudies : 719
+
+
+	2008
+		MITSU
+		emissions moyennes : 260.6141561601401	pour
+		somme des emissions : 1178236.5999999933
+		nombre de vehicules etudies : 4521
+
+
+	2008
+		NISSA
+		emissions moyennes : 209.24676702591466	pour
+		somme des emissions : 3766860.3000005158
+		nombre de vehicules etudies : 18002
+
+
+	2008
+		PONTI
+		emissions moyennes : 234.11293950879835	pour
+		somme des emissions : 2532399.6666666716
+		nombre de vehicules etudies : 10817
+
+
+	2008
+		PORSC
+		emissions moyennes : 311.48429319371695	pour
+		somme des emissions : 118986.99999999987
+		nombre de vehicules etudies : 382
+
+
+	2008
+		SAAB
+		emissions moyennes : 272.1006097560976	pour
+		somme des emissions : 89249.0
+		nombre de vehicules etudies : 328
+
+
+	2008
+		SATUR
+		emissions moyennes : 229.9004477218857	pour
+		somme des emissions : 872932.0
+		nombre de vehicules etudies : 3797
+
+
+	2008
+		SMART
+		emissions moyennes : 150.0	pour
+		somme des emissions : 87300.0
+		nombre de vehicules etudies : 582
+
+
+	2008
+		SUBAR
+		emissions moyennes : 256.2987703441631	pour
+		somme des emissions : 1204091.623076878
+		nombre de vehicules etudies : 4698
+
+
+	2008
+		SUZUK
+		emissions moyennes : 239.13675108091078	pour
+		somme des emissions : 1161487.1999999837
+		nombre de vehicules etudies : 4857
+
+
+	2008
+		TOYOT
+		emissions moyennes : 199.87948527223602	pour
+		somme des emissions : 6717949.499999853
+		nombre de vehicules etudies : 33610
+
+
+	2008
+		VOLKS
+		emissions moyennes : 236.52794292508918	pour
+		somme des emissions : 1193520.0
+		nombre de vehicules etudies : 5046
+
+
+	2008
+		VOLVO
+		emissions moyennes : 278.7770863836018	pour
+		somme des emissions : 571214.25
+		nombre de vehicules etudies : 2049
+
+
+	2008
+		JAGUA
+		emissions moyennes : 286.2368421052632	pour
+		somme des emissions : 10877.0
+		nombre de vehicules etudies : 38
+
+
+	2008
+		ASTON
+		emissions moyennes : 361.5	pour
+		somme des emissions : 2169.0
+		nombre de vehicules etudies : 6
+
+
+	2008
+		MASER
+		emissions moyennes : 368.7142857142857	pour
+		somme des emissions : 2581.0
+		nombre de vehicules etudies : 7
+
+
+	2008
+		FERRA
+		emissions moyennes : 428.23999999999995	pour
+		somme des emissions : 4282.4
+		nombre de vehicules etudies : 10
+
+
+	2008
+		BENTL
+		emissions moyennes : 432.0	pour
+		somme des emissions : 7344.0
+		nombre de vehicules etudies : 17
+
+
+	2008
+		ROLLS
+		emissions moyennes : 391.0	pour
+		somme des emissions : 391.0
+		nombre de vehicules etudies : 1
+
+
+
+
+
+	2009
+	emissions moyennes : 227.51427513609752	pour
+	somme des emissions : 58660005.55834003
+	nombre de vehicules etudies : 257830
+
+	2009
+		ACURA
+		emissions moyennes : 262.42129208371244	pour
+		somme des emissions : 865203.0
+		nombre de vehicules etudies : 3297
+
+
+	2009
+		AUDI
+		emissions moyennes : 247.1153017241391	pour
+		somme des emissions : 458646.00000000215
+		nombre de vehicules etudies : 1856
+
+
+	2009
+		BMW
+		emissions moyennes : 264.2527528330126	pour
+		somme des emissions : 823940.0833333334
+		nombre de vehicules etudies : 3118
+
+
+	2009
+		BUICK
+		emissions moyennes : 268.11457174638485	pour
+		somme des emissions : 241035.0
+		nombre de vehicules etudies : 899
+
+
+	2009
+		CADIL
+		emissions moyennes : 285.7965949820787	pour
+		somme des emissions : 159474.4999999999
+		nombre de vehicules etudies : 558
+
+
+	2009
+		CHEVR
+		emissions moyennes : 241.6289761456068	pour
+		somme des emissions : 3462784.857142691
+		nombre de vehicules etudies : 14331
+
+
+	2009
+		CHRYS
+		emissions moyennes : 259.5058626465662	pour
+		somme des emissions : 464775.0
+		nombre de vehicules etudies : 1791
+
+
+	2009
+		DODGE
+		emissions moyennes : 275.8469651952462	pour
+		somme des emissions : 3249477.25
+		nombre de vehicules etudies : 11780
+
+
+	2009
+		FORD
+		emissions moyennes : 274.2044950287809	pour
+		somme des emissions : 4366706.583333336
+		nombre de vehicules etudies : 15925
+
+
+	2009
+		GMC
+		emissions moyennes : 324.49311632080077	pour
+		somme des emissions : 886839.6869047486
+		nombre de vehicules etudies : 2733
+
+
+	2009
+		HONDA
+		emissions moyennes : 198.98127977845465	pour
+		somme des emissions : 6083454.666666694
+		nombre de vehicules etudies : 30573
+
+
+	2009
+		HYUND
+		emissions moyennes : 212.25214560076822	pour
+		somme des emissions : 7073090.5
+		nombre de vehicules etudies : 33324
+
+
+	2009
+		INFIN
+		emissions moyennes : 278.2471107055959	pour
+		somme des emissions : 304958.8333333331
+		nombre de vehicules etudies : 1096
+
+
+	2009
+		JEEP
+		emissions moyennes : 265.15874316940466	pour
+		somme des emissions : 970481.0000000211
+		nombre de vehicules etudies : 3660
+
+
+	2009
+		KIA
+		emissions moyennes : 230.18533233616918	pour
+		somme des emissions : 2462292.500000002
+		nombre de vehicules etudies : 10697
+
+
+	2009
+		LANDR
+		emissions moyennes : 344.1958762886598	pour
+		somme des emissions : 33387.0
+		nombre de vehicules etudies : 97
+
+
+	2009
+		LEXUS
+		emissions moyennes : 259.5048020613717	pour
+		somme des emissions : 369275.333333332
+		nombre de vehicules etudies : 1423
+
+
+	2009
+		LINCO
+		emissions moyennes : 288.5610119047619	pour
+		somme des emissions : 96956.5
+		nombre de vehicules etudies : 336
+
+
+	2009
+		MAZDA
+		emissions moyennes : 232.97033736958343	pour
+		somme des emissions : 3059133.5
+		nombre de vehicules etudies : 13131
+
+
+	2009
+		MERCE
+		emissions moyennes : 266.42688420127524	pour
+		somme des emissions : 808339.1666666691
+		nombre de vehicules etudies : 3034
+
+
+	2009
+		MINI
+		emissions moyennes : 186.0	pour
+		somme des emissions : 155124.0
+		nombre de vehicules etudies : 834
+
+
+	2009
+		MITSU
+		emissions moyennes : 257.6709346235544	pour
+		somme des emissions : 2183503.5
+		nombre de vehicules etudies : 8474
+
+
+	2009
+		NISSA
+		emissions moyennes : 207.69138925105858	pour
+		somme des emissions : 4778978.866666858
+		nombre de vehicules etudies : 23010
+
+
+	2009
+		PONTI
+		emissions moyennes : 217.13542242450765	pour
+		somme des emissions : 2637543.9761904944
+		nombre de vehicules etudies : 12147
+
+
+	2009
+		SATUR
+		emissions moyennes : 226.02271174863387	pour
+		somme des emissions : 330897.25
+		nombre de vehicules etudies : 1464
+
+
+	2009
+		SMART
+		emissions moyennes : 150.0	pour
+		somme des emissions : 97350.0
+		nombre de vehicules etudies : 649
+
+
+	2009
+		SUBAR
+		emissions moyennes : 253.33895408797733	pour
+		somme des emissions : 1356883.4380952066
+		nombre de vehicules etudies : 5356
+
+
+	2009
+		SUZUK
+		emissions moyennes : 229.86370349857577	pour
+		somme des emissions : 830037.8333333571
+		nombre de vehicules etudies : 3611
+
+
+	2009
+		TOYOT
+		emissions moyennes : 198.2177170972203	pour
+		somme des emissions : 8010374.383332866
+		nombre de vehicules etudies : 40412
+
+
+	2009
+		VOLKS
+		emissions moyennes : 235.9408119658147	pour
+		somme des emissions : 1472270.6666666837
+		nombre de vehicules etudies : 6240
+
+
+	2009
+		VOLVO
+		emissions moyennes : 277.56659905341445	pour
+		somme des emissions : 410521.0
+		nombre de vehicules etudies : 1479
+
+
+	2009
+		HUMME
+		emissions moyennes : 352.03125	pour
+		somme des emissions : 22530.0
+		nombre de vehicules etudies : 64
+
+
+	2009
+		JAGUA
+		emissions moyennes : 299.3333333333333	pour
+		somme des emissions : 24246.0
+		nombre de vehicules etudies : 81
+
+
+	2009
+		PORSC
+		emissions moyennes : 328.84712041884774	pour
+		somme des emissions : 62809.79999999992
+		nombre de vehicules etudies : 191
+
+
+	2009
+		SAAB
+		emissions moyennes : 258.2610169491522	pour
+		somme des emissions : 30474.79999999996
+		nombre de vehicules etudies : 118
+
+
+	2009
+		ASTON
+		emissions moyennes : 378.2	pour
+		somme des emissions : 5673.0
+		nombre de vehicules etudies : 15
+
+
+	2009
+		BENTL
+		emissions moyennes : 446.8333333333333	pour
+		somme des emissions : 2681.0
+		nombre de vehicules etudies : 6
+
+
+	2009
+		MASER
+		emissions moyennes : 384.0	pour
+		somme des emissions : 5376.0
+		nombre de vehicules etudies : 14
+
+
+	2009
+		FERRA
+		emissions moyennes : 419.6666666666667	pour
+		somme des emissions : 2098.3333333333335
+		nombre de vehicules etudies : 5
+
+
+	2009
+		LAMBO
+		emissions moyennes : 380.75	pour
+		somme des emissions : 380.75
+		nombre de vehicules etudies : 1
+
+
+
+
+
+	2010
+	emissions moyennes : 227.9099912402184	pour
+	somme des emissions : 72922992.43718524
+	nombre de vehicules etudies : 319964
+
+	2010
+		ACURA
+		emissions moyennes : 260.1808437067773	pour
+		somme des emissions : 752443.0
+		nombre de vehicules etudies : 2892
+
+
+	2010
+		AUDI
+		emissions moyennes : 249.35864516985137	pour
+		somme des emissions : 626388.9166666666
+		nombre de vehicules etudies : 2512
+
+
+	2010
+		BMW
+		emissions moyennes : 271.3208071353145	pour
+		somme des emissions : 521749.9121212098
+		nombre de vehicules etudies : 1923
+
+
+	2010
+		BUICK
+		emissions moyennes : 282.0272727272727	pour
+		somme des emissions : 139603.5
+		nombre de vehicules etudies : 495
+
+
+	2010
+		CADIL
+		emissions moyennes : 270.40497553017946	pour
+		somme des emissions : 331516.5
+		nombre de vehicules etudies : 1226
+
+
+	2010
+		CHEVR
+		emissions moyennes : 231.01601660611536	pour
+		somme des emissions : 4261552.45833301
+		nombre de vehicules etudies : 18447
+
+
+	2010
+		CHRYS
+		emissions moyennes : 265.07960088691794	pour
+		somme des emissions : 597754.5
+		nombre de vehicules etudies : 2255
+
+
+	2010
+		DODGE
+		emissions moyennes : 284.8257483393593	pour
+		somme des emissions : 6774865.25
+		nombre de vehicules etudies : 23786
+
+
+	2010
+		FORD
+		emissions moyennes : 270.8231332833241	pour
+		somme des emissions : 7220144.733333421
+		nombre de vehicules etudies : 26660
+
+
+	2010
+		GMC
+		emissions moyennes : 294.88861719469907	pour
+		somme des emissions : 1386861.1666666698
+		nombre de vehicules etudies : 4703
+
+
+	2010
+		HONDA
+		emissions moyennes : 202.6802341821506	pour
+		somme des emissions : 6240119.050000053
+		nombre de vehicules etudies : 30788
+
+
+	2010
+		HYUND
+		emissions moyennes : 203.7144391106624	pour
+		somme des emissions : 6450414.000000014
+		nombre de vehicules etudies : 31664
+
+
+	2010
+		INFIN
+		emissions moyennes : 281.38692434210526	pour
+		somme des emissions : 342166.5
+		nombre de vehicules etudies : 1216
+
+
+	2010
+		JEEP
+		emissions moyennes : 258.6015334226589	pour
+		somme des emissions : 1737026.5
+		nombre de vehicules etudies : 6717
+
+
+	2010
+		KIA
+		emissions moyennes : 206.98460059527014	pour
+		somme des emissions : 3732139.333333316
+		nombre de vehicules etudies : 18031
+
+
+	2010
+		LEXUS
+		emissions moyennes : 228.98470919324583	pour
+		somme des emissions : 610244.2500000001
+		nombre de vehicules etudies : 2665
+
+
+	2010
+		LINCO
+		emissions moyennes : 278.8847072879331	pour
+		somme des emissions : 233426.5
+		nombre de vehicules etudies : 837
+
+
+	2010
+		MAZDA
+		emissions moyennes : 214.8831598366056	pour
+		somme des emissions : 8153741.5
+		nombre de vehicules etudies : 37945
+
+
+	2010
+		MERCE
+		emissions moyennes : 281.0218756887811	pour
+		somme des emissions : 1274996.25
+		nombre de vehicules etudies : 4537
+
+
+	2010
+		MINI
+		emissions moyennes : 186.0	pour
+		somme des emissions : 186000.0
+		nombre de vehicules etudies : 1000
+
+
+	2010
+		MITSU
+		emissions moyennes : 252.68133408072651	pour
+		somme des emissions : 1803134.0000000645
+		nombre de vehicules etudies : 7136
+
+
+	2010
+		NISSA
+		emissions moyennes : 209.11225122649358	pour
+		somme des emissions : 3765066.083333017
+		nombre de vehicules etudies : 18005
+
+
+	2010
+		PONTI
+		emissions moyennes : 202.1940729084687	pour
+		somme des emissions : 513977.3333333275
+		nombre de vehicules etudies : 2542
+
+
+	2010
+		PORSC
+		emissions moyennes : 300.6664035087723	pour
+		somme des emissions : 57126.61666666674
+		nombre de vehicules etudies : 190
+
+
+	2010
+		SMART
+		emissions moyennes : 150.0	pour
+		somme des emissions : 54900.0
+		nombre de vehicules etudies : 366
+
+
+	2010
+		SUBAR
+		emissions moyennes : 245.31128355872582	pour
+		somme des emissions : 2035102.4084031894
+		nombre de vehicules etudies : 8296
+
+
+	2010
+		SUZUK
+		emissions moyennes : 228.15121364529654	pour
+		somme des emissions : 1043335.4999999411
+		nombre de vehicules etudies : 4573
+
+
+	2010
+		TOYOT
+		emissions moyennes : 199.02009843905853	pour
+		somme des emissions : 9515747.966666706
+		nombre de vehicules etudies : 47813
+
+
+	2010
+		VOLKS
+		emissions moyennes : 225.38996933349253	pour
+		somme des emissions : 1935423.6666667003
+		nombre de vehicules etudies : 8587
+
+
+	2010
+		VOLVO
+		emissions moyennes : 280.9727676169984	pour
+		somme des emissions : 522328.375
+		nombre de vehicules etudies : 1859
+
+
+	2010
+		LANDR
+		emissions moyennes : 355.40847784200344	pour
+		somme des emissions : 61485.6666666666
+		nombre de vehicules etudies : 173
+
+
+	2010
+		JAGUA
+		emissions moyennes : 298.62280701754383	pour
+		somme des emissions : 17021.5
+		nombre de vehicules etudies : 57
+
+
+	2010
+		FERRA
+		emissions moyennes : 366.0	pour
+		somme des emissions : 5124.0
+		nombre de vehicules etudies : 14
+
+
+	2010
+		HUMME
+		emissions moyennes : 348.64285714285717	pour
+		somme des emissions : 7321.5
+		nombre de vehicules etudies : 21
+
+
+	2010
+		MASER
+		emissions moyennes : 375.0	pour
+		somme des emissions : 4125.0
+		nombre de vehicules etudies : 11
+
+
+	2010
+		BENTL
+		emissions moyennes : 421.75	pour
+		somme des emissions : 4217.5
+		nombre de vehicules etudies : 10
+
+
+	2010
+		ASTON
+		emissions moyennes : 374.5	pour
+		somme des emissions : 1872.5
+		nombre de vehicules etudies : 5
+
+
+	2010
+		ROLLS
+		emissions moyennes : 357.0	pour
+		somme des emissions : 2142.0
+		nombre de vehicules etudies : 6
+
+
+	2010
+		LAMBO
+		emissions moyennes : 387.0	pour
+		somme des emissions : 387.0
+		nombre de vehicules etudies : 1
+
+
+
+
+
+	2011
+	emissions moyennes : 228.4551262926771	pour
+	somme des emissions : 60480753.22447075
+	nombre de vehicules etudies : 264738
+
+	2011
+		ACURA
+		emissions moyennes : 268.4183624031008	pour
+		somme des emissions : 554015.5
+		nombre de vehicules etudies : 2064
+
+
+	2011
+		AUDI
+		emissions moyennes : 242.6226242080699	pour
+		somme des emissions : 727625.2500000016
+		nombre de vehicules etudies : 2999
+
+
+	2011
+		BMW
+		emissions moyennes : 256.84232817869264	pour
+		somme des emissions : 1494822.3499999912
+		nombre de vehicules etudies : 5820
+
+
+	2011
+		BUICK
+		emissions moyennes : 257.7542735042735	pour
+		somme des emissions : 422201.5
+		nombre de vehicules etudies : 1638
+
+
+	2011
+		CADIL
+		emissions moyennes : 272.02094827586234	pour
+		somme des emissions : 315544.3000000003
+		nombre de vehicules etudies : 1160
+
+
+	2011
+		CHEVR
+		emissions moyennes : 219.38784963728816	pour
+		somme des emissions : 3911246.5833335733
+		nombre de vehicules etudies : 17828
+
+
+	2011
+		CHRYS
+		emissions moyennes : 247.48939161554193	pour
+		somme des emissions : 484089.25
+		nombre de vehicules etudies : 1956
+
+
+	2011
+		DODGE
+		emissions moyennes : 287.410393528049	pour
+		somme des emissions : 4192168.0000001225
+		nombre de vehicules etudies : 14586
+
+
+	2011
+		FORD
+		emissions moyennes : 244.56448602948413	pour
+		somme des emissions : 6325415.866666578
+		nombre de vehicules etudies : 25864
+
+
+	2011
+		GMC
+		emissions moyennes : 291.13556626354244	pour
+		somme des emissions : 1540689.4166666667
+		nombre de vehicules etudies : 5292
+
+
+	2011
+		HONDA
+		emissions moyennes : 216.02812093627955	pour
+		somme des emissions : 3987014.9999999753
+		nombre de vehicules etudies : 18456
+
+
+	2011
+		HYUND
+		emissions moyennes : 196.92459786672316	pour
+		somme des emissions : 5741730.5000000475
+		nombre de vehicules etudies : 29157
+
+
+	2011
+		INFIN
+		emissions moyennes : 273.2016625615772	pour
+		somme des emissions : 316913.92857142957
+		nombre de vehicules etudies : 1160
+
+
+	2011
+		JAGUA
+		emissions moyennes : 298.17777777777775	pour
+		somme des emissions : 22363.333333333332
+		nombre de vehicules etudies : 75
+
+
+	2011
+		JEEP
+		emissions moyennes : 263.89889073058777	pour
+		somme des emissions : 2069759.0
+		nombre de vehicules etudies : 7843
+
+
+	2011
+		KIA
+		emissions moyennes : 216.65058729042482	pour
+		somme des emissions : 4316112.999999844
+		nombre de vehicules etudies : 19922
+
+
+	2011
+		LANDR
+		emissions moyennes : 367.94565217391306	pour
+		somme des emissions : 76164.75
+		nombre de vehicules etudies : 207
+
+
+	2011
+		LEXUS
+		emissions moyennes : 217.29620512820486	pour
+		somme des emissions : 353106.3333333329
+		nombre de vehicules etudies : 1625
+
+
+	2011
+		LINCO
+		emissions moyennes : 279.0052521008403	pour
+		somme des emissions : 265613.0
+		nombre de vehicules etudies : 952
+
+
+	2011
+		MAZDA
+		emissions moyennes : 205.16883797893166	pour
+		somme des emissions : 4401692.25
+		nombre de vehicules etudies : 21454
+
+
+	2011
+		MERCE
+		emissions moyennes : 274.33636496457007	pour
+		somme des emissions : 1251796.8333333333
+		nombre de vehicules etudies : 4563
+
+
+	2011
+		MINI
+		emissions moyennes : 185.77777777778022	pour
+		somme des emissions : 147136.00000000192
+		nombre de vehicules etudies : 792
+
+
+	2011
+		MITSU
+		emissions moyennes : 228.6550032488629	pour
+		somme des emissions : 1759500.25
+		nombre de vehicules etudies : 7695
+
+
+	2011
+		NISSA
+		emissions moyennes : 211.46294487516025	pour
+		somme des emissions : 3463974.5
+		nombre de vehicules etudies : 16381
+
+
+	2011
+		PORSC
+		emissions moyennes : 287.26611777167864	pour
+		somme des emissions : 86467.10144927527
+		nombre de vehicules etudies : 301
+
+
+	2011
+		SMART
+		emissions moyennes : 150.0	pour
+		somme des emissions : 65250.0
+		nombre de vehicules etudies : 435
+
+
+	2011
+		SUBAR
+		emissions moyennes : 252.46623533824157	pour
+		somme des emissions : 2468109.9166666497
+		nombre de vehicules etudies : 9776
+
+
+	2011
+		SUZUK
+		emissions moyennes : 223.4522805276353	pour
+		somme des emissions : 600416.2777777561
+		nombre de vehicules etudies : 2687
+
+
+	2011
+		TOYOT
+		emissions moyennes : 213.8762312933945	pour
+		somme des emissions : 6612197.566666584
+		nombre de vehicules etudies : 30916
+
+
+	2011
+		VOLKS
+		emissions moyennes : 218.41841328147137	pour
+		somme des emissions : 2021680.833333299
+		nombre de vehicules etudies : 9256
+
+
+	2011
+		VOLVO
+		emissions moyennes : 257.0767982693348	pour
+		somme des emissions : 475335.0
+		nombre de vehicules etudies : 1849
+
+
+	2011
+		BENTL
+		emissions moyennes : 398.25	pour
+		somme des emissions : 1593.0
+		nombre de vehicules etudies : 4
+
+
+	2011
+		MASER
+		emissions moyennes : 366.25	pour
+		somme des emissions : 5127.5
+		nombre de vehicules etudies : 14
+
+
+	2011
+		ROLLS
+		emissions moyennes : 350.0	pour
+		somme des emissions : 1750.0
+		nombre de vehicules etudies : 5
+
+
+	2011
+		ASTON
+		emissions moyennes : 354.8888888888889	pour
+		somme des emissions : 2129.3333333333335
+		nombre de vehicules etudies : 6
+
+
+
+
+
+	2012
+	emissions moyennes : 209.50763976900416	pour
+	somme des emissions : 62209103.47661041
+	nombre de vehicules etudies : 296930
+
+	2012
+		ACURA
+		emissions moyennes : 263.06081081081084	pour
+		somme des emissions : 661861.0
+		nombre de vehicules etudies : 2516
+
+
+	2012
+		AUDI
+		emissions moyennes : 242.72451294368898	pour
+		somme des emissions : 909488.7500000026
+		nombre de vehicules etudies : 3747
+
+
+	2012
+		BMW
+		emissions moyennes : 248.87962141378293	pour
+		somme des emissions : 841462.0000000001
+		nombre de vehicules etudies : 3381
+
+
+	2012
+		BUICK
+		emissions moyennes : 231.95399740307988	pour
+		somme des emissions : 416821.33333333454
+		nombre de vehicules etudies : 1797
+
+
+	2012
+		CADIL
+		emissions moyennes : 273.7049822064048	pour
+		somme des emissions : 230733.29999999923
+		nombre de vehicules etudies : 843
+
+
+	2012
+		CHEVR
+		emissions moyennes : 203.27047076631786	pour
+		somme des emissions : 4006257.7083333586
+		nombre de vehicules etudies : 19709
+
+
+	2012
+		CHRYS
+		emissions moyennes : 243.07943502824784	pour
+		somme des emissions : 717084.3333333312
+		nombre de vehicules etudies : 2950
+
+
+	2012
+		DODGE
+		emissions moyennes : 264.8896550876517	pour
+		somme des emissions : 3591638.8333334695
+		nombre de vehicules etudies : 13559
+
+
+	2012
+		FIAT
+		emissions moyennes : 173.0	pour
+		somme des emissions : 737153.0
+		nombre de vehicules etudies : 4261
+
+
+	2012
+		FORD
+		emissions moyennes : 218.02586023933134	pour
+		somme des emissions : 4828182.674999992
+		nombre de vehicules etudies : 22145
+
+
+	2012
+		GMC
+		emissions moyennes : 283.92707456263776	pour
+		somme des emissions : 1011632.1666666783
+		nombre de vehicules etudies : 3563
+
+
+	2012
+		HONDA
+		emissions moyennes : 184.90477260398194	pour
+		somme des emissions : 7612344.583333333
+		nombre de vehicules etudies : 41169
+
+
+	2012
+		HYUND
+		emissions moyennes : 188.63817122248113	pour
+		somme des emissions : 6921700.4166665
+		nombre de vehicules etudies : 36693
+
+
+	2012
+		INFIN
+		emissions moyennes : 274.26056427933156	pour
+		somme des emissions : 306897.571428572
+		nombre de vehicules etudies : 1119
+
+
+	2012
+		JAGUA
+		emissions moyennes : 297.1818181818182	pour
+		somme des emissions : 13076.0
+		nombre de vehicules etudies : 44
+
+
+	2012
+		JEEP
+		emissions moyennes : 266.0235684647303	pour
+		somme des emissions : 1602792.0
+		nombre de vehicules etudies : 6025
+
+
+	2012
+		KIA
+		emissions moyennes : 215.42636105351676	pour
+		somme des emissions : 4675829.166666581
+		nombre de vehicules etudies : 21705
+
+
+	2012
+		LANDR
+		emissions moyennes : 374.0846456692913	pour
+		somme des emissions : 47508.75
+		nombre de vehicules etudies : 127
+
+
+	2012
+		LEXUS
+		emissions moyennes : 201.03827361563515	pour
+		somme des emissions : 246874.99999999997
+		nombre de vehicules etudies : 1228
+
+
+	2012
+		LINCO
+		emissions moyennes : 276.5268456375839	pour
+		somme des emissions : 123607.5
+		nombre de vehicules etudies : 447
+
+
+	2012
+		MAZDA
+		emissions moyennes : 190.41622210596577	pour
+		somme des emissions : 3640758.166666066
+		nombre de vehicules etudies : 19120
+
+
+	2012
+		MERCE
+		emissions moyennes : 267.41692612510735	pour
+		somme des emissions : 944784.0000000042
+		nombre de vehicules etudies : 3533
+
+
+	2012
+		MINI
+		emissions moyennes : 184.30769230768925	pour
+		somme des emissions : 257846.46153845725
+		nombre de vehicules etudies : 1399
+
+
+	2012
+		MITSU
+		emissions moyennes : 225.67075673244364	pour
+		somme des emissions : 1338001.9166666584
+		nombre de vehicules etudies : 5929
+
+
+	2012
+		NISSA
+		emissions moyennes : 209.36845176250776	pour
+		somme des emissions : 4634789.416666634
+		nombre de vehicules etudies : 22137
+
+
+	2012
+		PORSC
+		emissions moyennes : 284.2734855847101	pour
+		somme des emissions : 83576.40476190478
+		nombre de vehicules etudies : 294
+
+
+	2012
+		SUBAR
+		emissions moyennes : 217.96732068051134	pour
+		somme des emissions : 1699709.1666666274
+		nombre de vehicules etudies : 7798
+
+
+	2012
+		SUZUK
+		emissions moyennes : 223.60262547142187	pour
+		somme des emissions : 342559.2222222183
+		nombre de vehicules etudies : 1532
+
+
+	2012
+		TOYOT
+		emissions moyennes : 194.6145473041709	pour
+		somme des emissions : 6695713.5
+		nombre de vehicules etudies : 34405
+
+
+	2012
+		VOLKS
+		emissions moyennes : 217.67751611516994	pour
+		somme des emissions : 2532677.9000000022
+		nombre de vehicules etudies : 11635
+
+
+	2012
+		VOLVO
+		emissions moyennes : 253.9631657541065	pour
+		somme des emissions : 510212.0
+		nombre de vehicules etudies : 2009
+
+
+	2012
+		MASER
+		emissions moyennes : 352.8125	pour
+		somme des emissions : 5645.0
+		nombre de vehicules etudies : 16
+
+
+	2012
+		SMART
+		emissions moyennes : 147.0	pour
+		somme des emissions : 10290.0
+		nombre de vehicules etudies : 70
+
+
+	2012
+		BENTL
+		emissions moyennes : 398.1999999999999	pour
+		somme des emissions : 6769.399999999998
+		nombre de vehicules etudies : 17
+
+
+	2012
+		ASTON
+		emissions moyennes : 356.20833333333337	pour
+		somme des emissions : 1424.8333333333335
+		nombre de vehicules etudies : 4
+
+
+	2012
+		ROLLS
+		emissions moyennes : 350.0	pour
+		somme des emissions : 1400.0
+		nombre de vehicules etudies : 4
+
+
+
+
+
+	2013
+	emissions moyennes : 205.6583020223685	pour
+	somme des emissions : 67370780.52629961
+	nombre de vehicules etudies : 327586
+
+	2013
+		ACURA
+		emissions moyennes : 236.88109000825764	pour
+		somme des emissions : 860589.0
+		nombre de vehicules etudies : 3633
+
+
+	2013
+		AUDI
+		emissions moyennes : 231.25539713227158	pour
+		somme des emissions : 956934.8333333398
+		nombre de vehicules etudies : 4138
+
+
+	2013
+		BMW
+		emissions moyennes : 225.14528209436205	pour
+		somme des emissions : 1072141.833333352
+		nombre de vehicules etudies : 4762
+
+
+	2013
+		BUICK
+		emissions moyennes : 218.4510236993411	pour
+		somme des emissions : 519258.0833333338
+		nombre de vehicules etudies : 2377
+
+
+	2013
+		CADIL
+		emissions moyennes : 260.0834011391376	pour
+		somme des emissions : 319642.5000000001
+		nombre de vehicules etudies : 1229
+
+
+	2013
+		CHEVR
+		emissions moyennes : 201.8853927309555	pour
+		somme des emissions : 2723635.8333333205
+		nombre de vehicules etudies : 13491
+
+
+	2013
+		CHRYS
+		emissions moyennes : 246.02668539325856	pour
+		somme des emissions : 613098.5000000003
+		nombre de vehicules etudies : 2492
+
+
+	2013
+		DODGE
+		emissions moyennes : 250.0562086905943	pour
+		somme des emissions : 3732839.083333192
+		nombre de vehicules etudies : 14928
+
+
+	2013
+		FIAT
+		emissions moyennes : 173.0	pour
+		somme des emissions : 439766.0
+		nombre de vehicules etudies : 2542
+
+
+	2013
+		FORD
+		emissions moyennes : 212.00704985281706	pour
+		somme des emissions : 6481055.514000618
+		nombre de vehicules etudies : 30570
+
+
+	2013
+		GMC
+		emissions moyennes : 292.1300872093059	pour
+		somme des emissions : 904434.750000011
+		nombre de vehicules etudies : 3096
+
+
+	2013
+		HONDA
+		emissions moyennes : 188.08596018950598	pour
+		somme des emissions : 6497805.6666668635
+		nombre de vehicules etudies : 34547
+
+
+	2013
+		HYUND
+		emissions moyennes : 185.0452393184213	pour
+		somme des emissions : 11886936.083336746
+		nombre de vehicules etudies : 64238
+
+
+	2013
+		INFIN
+		emissions moyennes : 270.97729779411765	pour
+		somme des emissions : 368529.125
+		nombre de vehicules etudies : 1360
+
+
+	2013
+		JAGUA
+		emissions moyennes : 282.8041237113402	pour
+		somme des emissions : 27432.0
+		nombre de vehicules etudies : 97
+
+
+	2013
+		JEEP
+		emissions moyennes : 283.4775561097257	pour
+		somme des emissions : 909396.0
+		nombre de vehicules etudies : 3208
+
+
+	2013
+		KIA
+		emissions moyennes : 195.4283493584078	pour
+		somme des emissions : 5426849.833333625
+		nombre de vehicules etudies : 27769
+
+
+	2013
+		LANDR
+		emissions moyennes : 342.60751295336786	pour
+		somme des emissions : 66123.25
+		nombre de vehicules etudies : 193
+
+
+	2013
+		LEXUS
+		emissions moyennes : 217.78597785978053	pour
+		somme des emissions : 413140.00000000367
+		nombre de vehicules etudies : 1897
+
+
+	2013
+		LINCO
+		emissions moyennes : 263.3389423076923	pour
+		somme des emissions : 219098.0
+		nombre de vehicules etudies : 832
+
+
+	2013
+		MAZDA
+		emissions moyennes : 188.9191453789128	pour
+		somme des emissions : 3239207.666666839
+		nombre de vehicules etudies : 17146
+
+
+	2013
+		MERCE
+		emissions moyennes : 244.11172008778888	pour
+		somme des emissions : 1124622.6944444433
+		nombre de vehicules etudies : 4607
+
+
+	2013
+		MINI
+		emissions moyennes : 184.46153846153365	pour
+		somme des emissions : 248285.2307692243
+		nombre de vehicules etudies : 1346
+
+
+	2013
+		MITSU
+		emissions moyennes : 220.33355593075373	pour
+		somme des emissions : 1249070.9285714428
+		nombre de vehicules etudies : 5669
+
+
+	2013
+		NISSA
+		emissions moyennes : 200.73378101160125	pour
+		somme des emissions : 3131246.249999968
+		nombre de vehicules etudies : 15599
+
+
+	2013
+		PORSC
+		emissions moyennes : 275.10410727483924	pour
+		somme des emissions : 124071.9523809525
+		nombre de vehicules etudies : 451
+
+
+	2013
+		RAM
+		emissions moyennes : 321.88053182694546	pour
+		somme des emissions : 1168104.449999985
+		nombre de vehicules etudies : 3629
+
+
+	2013
+		SMART
+		emissions moyennes : 146.41199999999773	pour
+		somme des emissions : 133234.91999999795
+		nombre de vehicules etudies : 910
+
+
+	2013
+		SUBAR
+		emissions moyennes : 211.74470949160872	pour
+		somme des emissions : 2254657.6666666497
+		nombre de vehicules etudies : 10648
+
+
+	2013
+		SUZUK
+		emissions moyennes : 229.07614989621044	pour
+		somme des emissions : 232970.444444446
+		nombre de vehicules etudies : 1017
+
+
+	2013
+		TOYOT
+		emissions moyennes : 196.95348429260014	pour
+		somme des emissions : 6549491.166666125
+		nombre de vehicules etudies : 33254
+
+
+	2013
+		VOLKS
+		emissions moyennes : 215.68397133487417	pour
+		somme des emissions : 3200318.766666863
+		nombre de vehicules etudies : 14838
+
+
+	2013
+		VOLVO
+		emissions moyennes : 254.8102119460501	pour
+		somme des emissions : 264493.0
+		nombre de vehicules etudies : 1038
+
+
+	2013
+		LAMBO
+		emissions moyennes : 447.5	pour
+		somme des emissions : 447.5
+		nombre de vehicules etudies : 1
+
+
+	2013
+		ASTON
+		emissions moyennes : 351.5	pour
+		somme des emissions : 1406.0
+		nombre de vehicules etudies : 4
+
+
+	2013
+		MASER
+		emissions moyennes : 352.93333333333334	pour
+		somme des emissions : 5294.0
+		nombre de vehicules etudies : 15
+
+
+	2013
+		BENTL
+		emissions moyennes : 337.5	pour
+		somme des emissions : 4387.5
+		nombre de vehicules etudies : 13
+
+
+	2013
+		ROLLS
+		emissions moyennes : 382.25	pour
+		somme des emissions : 764.5
+		nombre de vehicules etudies : 2
+
+
+
+
+
+	2014
+	emissions moyennes : 209.34396776054578	pour
+	somme des emissions : 64504947.442089215
+	nombre de vehicules etudies : 308129
+
+	2014
+		ACURA
+		emissions moyennes : 239.97240411599626	pour
+		somme des emissions : 769591.5
+		nombre de vehicules etudies : 3207
+
+
+	2014
+		AUDI
+		emissions moyennes : 235.73445105462682	pour
+		somme des emissions : 871746.00000001
+		nombre de vehicules etudies : 3698
+
+
+	2014
+		BMW
+		emissions moyennes : 220.9695149338993	pour
+		somme des emissions : 782453.0523809374
+		nombre de vehicules etudies : 3541
+
+
+	2014
+		BUICK
+		emissions moyennes : 218.04589905362775	pour
+		somme des emissions : 691205.5
+		nombre de vehicules etudies : 3170
+
+
+	2014
+		CADIL
+		emissions moyennes : 252.18257770173764	pour
+		somme des emissions : 421144.9047619019
+		nombre de vehicules etudies : 1670
+
+
+	2014
+		CHEVR
+		emissions moyennes : 194.13674645758113	pour
+		somme des emissions : 2995918.271333392
+		nombre de vehicules etudies : 15432
+
+
+	2014
+		CHRYS
+		emissions moyennes : 253.3162814731317	pour
+		somme des emissions : 449383.08333333564
+		nombre de vehicules etudies : 1774
+
+
+	2014
+		DODGE
+		emissions moyennes : 262.5945784285657	pour
+		somme des emissions : 3658467.6666667773
+		nombre de vehicules etudies : 13932
+
+
+	2014
+		FIAT
+		emissions moyennes : 186.49268435427234	pour
+		somme des emissions : 477980.75
+		nombre de vehicules etudies : 2563
+
+
+	2014
+		FORD
+		emissions moyennes : 214.72957075596364	pour
+		somme des emissions : 5898621.308666321
+		nombre de vehicules etudies : 27470
+
+
+	2014
+		GMC
+		emissions moyennes : 278.0799872122762	pour
+		somme des emissions : 1087292.75
+		nombre de vehicules etudies : 3910
+
+
+	2014
+		HONDA
+		emissions moyennes : 189.3149547692359	pour
+		somme des emissions : 6062054.166665703
+		nombre de vehicules etudies : 32021
+
+
+	2014
+		HYUND
+		emissions moyennes : 203.20213046330713	pour
+		somme des emissions : 6296624.416666498
+		nombre de vehicules etudies : 30987
+
+
+	2014
+		INFIN
+		emissions moyennes : 248.5364245234412	pour
+		somme des emissions : 482409.1999999994
+		nombre de vehicules etudies : 1941
+
+
+	2014
+		JEEP
+		emissions moyennes : 260.58886456241964	pour
+		somme des emissions : 2856575.133333244
+		nombre de vehicules etudies : 10962
+
+
+	2014
+		KIA
+		emissions moyennes : 207.32292231538247	pour
+		somme des emissions : 4970152.416666664
+		nombre de vehicules etudies : 23973
+
+
+	2014
+		LANDR
+		emissions moyennes : 307.7056992337166	pour
+		somme des emissions : 71387.72222222225
+		nombre de vehicules etudies : 232
+
+
+	2014
+		LEXUS
+		emissions moyennes : 222.66223564954637	pour
+		somme des emissions : 368505.99999999924
+		nombre de vehicules etudies : 1655
+
+
+	2014
+		LINCO
+		emissions moyennes : 251.98757763975155	pour
+		somme des emissions : 121710.0
+		nombre de vehicules etudies : 483
+
+
+	2014
+		MAZDA
+		emissions moyennes : 181.0926203708023	pour
+		somme des emissions : 3682156.249999523
+		nombre de vehicules etudies : 20333
+
+
+	2014
+		MERCE
+		emissions moyennes : 232.39411299881442	pour
+		somme des emissions : 1176378.9999999986
+		nombre de vehicules etudies : 5062
+
+
+	2014
+		MINI
+		emissions moyennes : 186.70833333333255	pour
+		somme des emissions : 145632.4999999994
+		nombre de vehicules etudies : 780
+
+
+	2014
+		MITSU
+		emissions moyennes : 202.5308692315039	pour
+		somme des emissions : 1809410.7857142559
+		nombre de vehicules etudies : 8934
+
+
+	2014
+		NISSA
+		emissions moyennes : 186.41767726673493	pour
+		somme des emissions : 4150403.1666665864
+		nombre de vehicules etudies : 22264
+
+
+	2014
+		PORSC
+		emissions moyennes : 250.80284334763923	pour
+		somme des emissions : 116874.12499999988
+		nombre de vehicules etudies : 466
+
+
+	2014
+		RAM
+		emissions moyennes : 314.56739008288605	pour
+		somme des emissions : 2239405.2500000657
+		nombre de vehicules etudies : 7119
+
+
+	2014
+		SMART
+		emissions moyennes : 146.41199999999947	pour
+		somme des emissions : 41141.77199999985
+		nombre de vehicules etudies : 281
+
+
+	2014
+		SUBAR
+		emissions moyennes : 204.60364717366227	pour
+		somme des emissions : 2305678.5
+		nombre de vehicules etudies : 11269
+
+
+	2014
+		TOYOT
+		emissions moyennes : 186.82484040590438	pour
+		somme des emissions : 6916442.416666986
+		nombre de vehicules etudies : 37021
+
+
+	2014
+		VOLKS
+		emissions moyennes : 213.0764582968029	pour
+		somme des emissions : 2430350.083333334
+		nombre de vehicules etudies : 11406
+
+
+	2014
+		VOLVO
+		emissions moyennes : 260.7170868347339	pour
+		somme des emissions : 93076.0
+		nombre de vehicules etudies : 357
+
+
+	2014
+		JAGUA
+		emissions moyennes : 277.62731481481484	pour
+		somme des emissions : 29983.75
+		nombre de vehicules etudies : 108
+
+
+	2014
+		MASER
+		emissions moyennes : 307.20588235294116	pour
+		somme des emissions : 20890.0
+		nombre de vehicules etudies : 68
+
+
+	2014
+		ASTON
+		emissions moyennes : 355.75	pour
+		somme des emissions : 4269.0
+		nombre de vehicules etudies : 12
+
+
+	2014
+		BENTL
+		emissions moyennes : 333.63157894736844	pour
+		somme des emissions : 6339.0
+		nombre de vehicules etudies : 19
+
+
+	2014
+		ROLLS
+		emissions moyennes : 365.77777777777777	pour
+		somme des emissions : 3292.0
+		nombre de vehicules etudies : 9
+
+
+
+
+
+	2015
+	emissions moyennes : 204.87461014088476	pour
+	somme des emissions : 70198851.04250318
+	nombre de vehicules etudies : 342643
+
+	2015
+		ACURA
+		emissions moyennes : 225.55931198102016	pour
+		somme des emissions : 760586.0
+		nombre de vehicules etudies : 3372
+
+
+	2015
+		AUDI
+		emissions moyennes : 225.67131237433728	pour
+		somme des emissions : 1234647.7499999993
+		nombre de vehicules etudies : 5471
+
+
+	2015
+		BMW
+		emissions moyennes : 214.7049645581116	pour
+		somme des emissions : 853881.6440476099
+		nombre de vehicules etudies : 3977
+
+
+	2015
+		BUICK
+		emissions moyennes : 217.78897168405365	pour
+		somme des emissions : 730682.0
+		nombre de vehicules etudies : 3355
+
+
+	2015
+		CADIL
+		emissions moyennes : 260.5505718954272	pour
+		somme des emissions : 531523.1666666715
+		nombre de vehicules etudies : 2040
+
+
+	2015
+		CHEVR
+		emissions moyennes : 199.6322470969463	pour
+		somme des emissions : 2956952.8439999684
+		nombre de vehicules etudies : 14812
+
+
+	2015
+		CHRYS
+		emissions moyennes : 225.56129476584402	pour
+		somme des emissions : 873373.333333348
+		nombre de vehicules etudies : 3872
+
+
+	2015
+		DODGE
+		emissions moyennes : 264.5589750461561	pour
+		somme des emissions : 2961473.166666671
+		nombre de vehicules etudies : 11194
+
+
+	2015
+		FIAT
+		emissions moyennes : 185.83592620294615	pour
+		somme des emissions : 248462.633333339
+		nombre de vehicules etudies : 1337
+
+
+	2015
+		FORD
+		emissions moyennes : 212.89274368676834	pour
+		somme des emissions : 4790086.732952287
+		nombre de vehicules etudies : 22500
+
+
+	2015
+		GMC
+		emissions moyennes : 282.63887373343726	pour
+		somme des emissions : 1813128.375
+		nombre de vehicules etudies : 6415
+
+
+	2015
+		HONDA
+		emissions moyennes : 178.66659110948112	pour
+		somme des emissions : 7093957.000001947
+		nombre de vehicules etudies : 39705
+
+
+	2015
+		HYUND
+		emissions moyennes : 195.82273953228355	pour
+		somme des emissions : 5953598.750000017
+		nombre de vehicules etudies : 30403
+
+
+	2015
+		INFIN
+		emissions moyennes : 253.57176308539948	pour
+		somme des emissions : 552279.3
+		nombre de vehicules etudies : 2178
+
+
+	2015
+		JAGUA
+		emissions moyennes : 268.54	pour
+		somme des emissions : 26854.0
+		nombre de vehicules etudies : 100
+
+
+	2015
+		JEEP
+		emissions moyennes : 248.750781659056	pour
+		somme des emissions : 3325549.1999999196
+		nombre de vehicules etudies : 13369
+
+
+	2015
+		KIA
+		emissions moyennes : 207.35749220752422	pour
+		somme des emissions : 4479336.546666938
+		nombre de vehicules etudies : 21602
+
+
+	2015
+		LAMBO
+		emissions moyennes : 358.625	pour
+		somme des emissions : 2869.0
+		nombre de vehicules etudies : 8
+
+
+	2015
+		LANDR
+		emissions moyennes : 309.77619047619015	pour
+		somme des emissions : 54210.83333333328
+		nombre de vehicules etudies : 175
+
+
+	2015
+		LEXUS
+		emissions moyennes : 225.106110906185	pour
+		somme des emissions : 610262.6666666676
+		nombre de vehicules etudies : 2711
+
+
+	2015
+		LINCO
+		emissions moyennes : 246.5561035758323	pour
+		somme des emissions : 199957.0
+		nombre de vehicules etudies : 811
+
+
+	2015
+		MASER
+		emissions moyennes : 300.0357142857143	pour
+		somme des emissions : 12601.5
+		nombre de vehicules etudies : 42
+
+
+	2015
+		MAZDA
+		emissions moyennes : 178.31553740934118	pour
+		somme des emissions : 3450227.3333333423
+		nombre de vehicules etudies : 19349
+
+
+	2015
+		MERCE
+		emissions moyennes : 229.16594435022927	pour
+		somme des emissions : 1216183.6666666667
+		nombre de vehicules etudies : 5307
+
+
+	2015
+		MINI
+		emissions moyennes : 177.10457163426926	pour
+		somme des emissions : 245998.25
+		nombre de vehicules etudies : 1389
+
+
+	2015
+		MITSU
+		emissions moyennes : 201.10108125818476	pour
+		somme des emissions : 1665921.3571428026
+		nombre de vehicules etudies : 8284
+
+
+	2015
+		NISSA
+		emissions moyennes : 188.90293975079456	pour
+		somme des emissions : 6625015.0000001155
+		nombre de vehicules etudies : 35071
+
+
+	2015
+		PORSC
+		emissions moyennes : 241.88330606202288	pour
+		somme des emissions : 134970.88478260877
+		nombre de vehicules etudies : 558
+
+
+	2015
+		RAM
+		emissions moyennes : 306.6263570430137	pour
+		somme des emissions : 1608561.86904765
+		nombre de vehicules etudies : 5246
+
+
+	2015
+		SMART
+		emissions moyennes : 149.40000000000077	pour
+		somme des emissions : 41682.60000000022
+		nombre de vehicules etudies : 279
+
+
+	2015
+		SUBAR
+		emissions moyennes : 204.27623975567897	pour
+		somme des emissions : 3099074.8333334057
+		nombre de vehicules etudies : 15171
+
+
+	2015
+		TOYOT
+		emissions moyennes : 188.4113147581232	pour
+		somme des emissions : 7627643.66666786
+		nombre de vehicules etudies : 40484
+
+
+	2015
+		VOLKS
+		emissions moyennes : 197.0625280768198	pour
+		somme des emissions : 4045496.638889034
+		nombre de vehicules etudies : 20529
+
+
+	2015
+		VOLVO
+		emissions moyennes : 243.35069674850698	pour
+		somme des emissions : 366729.5
+		nombre de vehicules etudies : 1507
+
+
+	2015
+		BENTL
+		emissions moyennes : 312.0	pour
+		somme des emissions : 1872.0
+		nombre de vehicules etudies : 6
+
+
+	2015
+		ROLLS
+		emissions moyennes : 359.0	pour
+		somme des emissions : 1077.0
+		nombre de vehicules etudies : 3
+
+
+	2015
+		ALFA
+		emissions moyennes : 193.0	pour
+		somme des emissions : 2123.0
+		nombre de vehicules etudies : 11
+
+
+
+
+
+	2016
+	emissions moyennes : 210.38741565486134	pour
+	somme des emissions : 75355091.82734865
+	nombre de vehicules etudies : 358173
+
+	2016
+		ACURA
+		emissions moyennes : 228.27439848607733	pour
+		somme des emissions : 844387.0
+		nombre de vehicules etudies : 3699
+
+
+	2016
+		AUDI
+		emissions moyennes : 192.1418244406194	pour
+		somme des emissions : 1116343.9999999986
+		nombre de vehicules etudies : 5810
+
+
+	2016
+		BMW
+		emissions moyennes : 207.19292544069305	pour
+		somme des emissions : 989553.4119047499
+		nombre de vehicules etudies : 4776
+
+
+	2016
+		BUICK
+		emissions moyennes : 221.6433130258193	pour
+		somme des emissions : 764004.4999999992
+		nombre de vehicules etudies : 3447
+
+
+	2016
+		CADIL
+		emissions moyennes : 263.3259587020652	pour
+		somme des emissions : 297558.33333333366
+		nombre de vehicules etudies : 1130
+
+
+	2016
+		CHEVR
+		emissions moyennes : 207.76941141166253	pour
+		somme des emissions : 3016604.0842859284
+		nombre de vehicules etudies : 14519
+
+
+	2016
+		CHRYS
+		emissions moyennes : 229.22619669277563	pour
+		somme des emissions : 438968.16666666535
+		nombre de vehicules etudies : 1915
+
+
+	2016
+		DODGE
+		emissions moyennes : 271.9184719043948	pour
+		somme des emissions : 3564851.1666666153
+		nombre de vehicules etudies : 13110
+
+
+	2016
+		FIAT
+		emissions moyennes : 205.09381294964078	pour
+		somme des emissions : 142540.20000000033
+		nombre de vehicules etudies : 695
+
+
+	2016
+		FORD
+		emissions moyennes : 247.54512687826107	pour
+		somme des emissions : 6309925.284126875
+		nombre de vehicules etudies : 25490
+
+
+	2016
+		GMC
+		emissions moyennes : 293.2669882768128	pour
+		somme des emissions : 1884533.6666667992
+		nombre de vehicules etudies : 6426
+
+
+	2016
+		HONDA
+		emissions moyennes : 184.77396642836976	pour
+		somme des emissions : 8321849.900000917
+		nombre de vehicules etudies : 45038
+
+
+	2016
+		HYUND
+		emissions moyennes : 187.49567196525425	pour
+		somme des emissions : 7324893.416666588
+		nombre de vehicules etudies : 39067
+
+
+	2016
+		INFIN
+		emissions moyennes : 263.5833233353344	pour
+		somme des emissions : 439393.4000000024
+		nombre de vehicules etudies : 1667
+
+
+	2016
+		JAGUA
+		emissions moyennes : 270.8444444444445	pour
+		somme des emissions : 34126.40000000001
+		nombre de vehicules etudies : 126
+
+
+	2016
+		JEEP
+		emissions moyennes : 254.5625785476909	pour
+		somme des emissions : 3497435.2666667253
+		nombre de vehicules etudies : 13739
+
+
+	2016
+		KIA
+		emissions moyennes : 213.6360231441148	pour
+		somme des emissions : 5417382.274888463
+		nombre de vehicules etudies : 25358
+
+
+	2016
+		LANDR
+		emissions moyennes : 282.52647783251234	pour
+		somme des emissions : 229411.5
+		nombre de vehicules etudies : 812
+
+
+	2016
+		LEXUS
+		emissions moyennes : 227.89567127628922	pour
+		somme des emissions : 527350.5833333333
+		nombre de vehicules etudies : 2314
+
+
+	2016
+		LINCO
+		emissions moyennes : 269.7183622828785	pour
+		somme des emissions : 326089.5000000001
+		nombre de vehicules etudies : 1209
+
+
+	2016
+		MAZDA
+		emissions moyennes : 186.4026106977853	pour
+		somme des emissions : 6213544.624999975
+		nombre de vehicules etudies : 33334
+
+
+	2016
+		MERCE
+		emissions moyennes : 224.78459485059693	pour
+		somme des emissions : 870141.1666666607
+		nombre de vehicules etudies : 3871
+
+
+	2016
+		MINI
+		emissions moyennes : 199.70490670352453	pour
+		somme des emissions : 288973.0
+		nombre de vehicules etudies : 1447
+
+
+	2016
+		MITSU
+		emissions moyennes : 215.7463624883323	pour
+		somme des emissions : 1309796.1666666653
+		nombre de vehicules etudies : 6071
+
+
+	2016
+		NISSA
+		emissions moyennes : 195.87295978157087	pour
+		somme des emissions : 5404330.833333322
+		nombre de vehicules etudies : 27591
+
+
+	2016
+		PORSC
+		emissions moyennes : 181.7819013112491	pour
+		somme des emissions : 114522.59782608693
+		nombre de vehicules etudies : 630
+
+
+	2016
+		RAM
+		emissions moyennes : 314.4320900900837	pour
+		somme des emissions : 2617647.149999947
+		nombre de vehicules etudies : 8325
+
+
+	2016
+		SMART
+		emissions moyennes : 156.37199999999962	pour
+		somme des emissions : 27834.21599999993
+		nombre de vehicules etudies : 178
+
+
+	2016
+		SUBAR
+		emissions moyennes : 212.1995380241649	pour
+		somme des emissions : 2089953.25
+		nombre de vehicules etudies : 9849
+
+
+	2016
+		TOYOT
+		emissions moyennes : 194.17807658106767	pour
+		somme des emissions : 7206142.600000002
+		nombre de vehicules etudies : 37111
+
+
+	2016
+		VOLKS
+		emissions moyennes : 191.6337265527999	pour
+		somme des emissions : 3500764.9166665487
+		nombre de vehicules etudies : 18268
+
+
+	2016
+		VOLVO
+		emissions moyennes : 187.36085414739435	pour
+		somme des emissions : 202537.08333333328
+		nombre de vehicules etudies : 1081
+
+
+	2016
+		ALFA
+		emissions moyennes : 197.0	pour
+		somme des emissions : 788.0
+		nombre de vehicules etudies : 4
+
+
+	2016
+		ASTON
+		emissions moyennes : 358.6666666666667	pour
+		somme des emissions : 1076.0
+		nombre de vehicules etudies : 3
+
+
+	2016
+		LAMBO
+		emissions moyennes : 335.5	pour
+		somme des emissions : 2684.0
+		nombre de vehicules etudies : 8
+
+
+	2016
+		MASER
+		emissions moyennes : 297.3018018018019	pour
+		somme des emissions : 11000.16666666667
+		nombre de vehicules etudies : 37
+
+
+	2016
+		BENTL
+		emissions moyennes : 334.2857142857143	pour
+		somme des emissions : 4680.0
+		nombre de vehicules etudies : 14
+
+
+	2016
+		ROLLS
+		emissions moyennes : 368.5	pour
+		somme des emissions : 1474.0
+		nombre de vehicules etudies : 4
+
+
+
+
+
+	2017
+	emissions moyennes : 213.50100940034216	pour
+	somme des emissions : 78683021.5013739
+	nombre de vehicules etudies : 368537
+
+	2017
+		ACURA
+		emissions moyennes : 234.68495488905145	pour
+		somme des emissions : 962443.0
+		nombre de vehicules etudies : 4101
+
+
+	2017
+		AUDI
+		emissions moyennes : 199.4822713775227	pour
+		somme des emissions : 1321171.0833333328
+		nombre de vehicules etudies : 6623
+
+
+	2017
+		BMW
+		emissions moyennes : 204.14431462390155	pour
+		somme des emissions : 891089.9333333303
+		nombre de vehicules etudies : 4365
+
+
+	2017
+		BUICK
+		emissions moyennes : 213.69789311408016	pour
+		somme des emissions : 1039640.25
+		nombre de vehicules etudies : 4865
+
+
+	2017
+		CADIL
+		emissions moyennes : 246.50924458531432	pour
+		somme des emissions : 622189.3333333334
+		nombre de vehicules etudies : 2524
+
+
+	2017
+		CHEVR
+		emissions moyennes : 197.83515412648896	pour
+		somme des emissions : 3986971.861111132
+		nombre de vehicules etudies : 20153
+
+
+	2017
+		CHRYS
+		emissions moyennes : 63.084493964716806	pour
+		somme des emissions : 67942.0
+		nombre de vehicules etudies : 1077
+
+
+	2017
+		DODGE
+		emissions moyennes : 276.4167799707604	pour
+		somme des emissions : 2520921.0333333346
+		nombre de vehicules etudies : 9120
+
+
+	2017
+		FIAT
+		emissions moyennes : 189.06502242152467	pour
+		somme des emissions : 42161.5
+		nombre de vehicules etudies : 223
+
+
+	2017
+		FORD
+		emissions moyennes : 236.63006371734917	pour
+		somme des emissions : 7300747.355871374
+		nombre de vehicules etudies : 30853
+
+
+	2017
+		GMC
+		emissions moyennes : 294.81408732127056	pour
+		somme des emissions : 2975558.583333584
+		nombre de vehicules etudies : 10093
+
+
+	2017
+		HONDA
+		emissions moyennes : 181.3938946789443	pour
+		somme des emissions : 6927070.049999525
+		nombre de vehicules etudies : 38188
+
+
+	2017
+		HYUND
+		emissions moyennes : 203.0445931509699	pour
+		somme des emissions : 9723805.565999947
+		nombre de vehicules etudies : 47890
+
+
+	2017
+		INFIN
+		emissions moyennes : 258.6353823637029	pour
+		somme des emissions : 706850.5
+		nombre de vehicules etudies : 2733
+
+
+	2017
+		JAGUA
+		emissions moyennes : 259.9522768670312	pour
+		somme des emissions : 142713.8000000001
+		nombre de vehicules etudies : 549
+
+
+	2017
+		JEEP
+		emissions moyennes : 269.0007684630746	pour
+		somme des emissions : 2246156.416666673
+		nombre de vehicules etudies : 8350
+
+
+	2017
+		KIA
+		emissions moyennes : 219.7769393589982	pour
+		somme des emissions : 4873553.630285785
+		nombre de vehicules etudies : 22175
+
+
+	2017
+		LANDR
+		emissions moyennes : 244.93130990415335	pour
+		somme des emissions : 153327.0
+		nombre de vehicules etudies : 626
+
+
+	2017
+		LEXUS
+		emissions moyennes : 227.37453392990307	pour
+		somme des emissions : 609818.5
+		nombre de vehicules etudies : 2682
+
+
+	2017
+		LINCO
+		emissions moyennes : 260.69651401230385	pour
+		somme des emissions : 381399.0000000005
+		nombre de vehicules etudies : 1463
+
+
+	2017
+		MASER
+		emissions moyennes : 320.98881431767364	pour
+		somme des emissions : 47827.33333333337
+		nombre de vehicules etudies : 149
+
+
+	2017
+		MAZDA
+		emissions moyennes : 195.57947423141073	pour
+		somme des emissions : 3950509.8000002652
+		nombre de vehicules etudies : 20199
+
+
+	2017
+		MERCE
+		emissions moyennes : 203.15776120948536	pour
+		somme des emissions : 653964.8333333334
+		nombre de vehicules etudies : 3219
+
+
+	2017
+		MINI
+		emissions moyennes : 204.90471250740845	pour
+		somme des emissions : 296292.21428571263
+		nombre de vehicules etudies : 1446
+
+
+	2017
+		MITSU
+		emissions moyennes : 200.16974440503853	pour
+		somme des emissions : 1636788.0
+		nombre de vehicules etudies : 8177
+
+
+	2017
+		NISSA
+		emissions moyennes : 200.54138851973497	pour
+		somme des emissions : 6488917.708333064
+		nombre de vehicules etudies : 32357
+
+
+	2017
+		PORSC
+		emissions moyennes : 233.40259433962262	pour
+		somme des emissions : 296888.1
+		nombre de vehicules etudies : 1272
+
+
+	2017
+		RAM
+		emissions moyennes : 329.59925110946745	pour
+		somme des emissions : 3564945.5
+		nombre de vehicules etudies : 10816
+
+
+	2017
+		SUBAR
+		emissions moyennes : 212.9574366416537	pour
+		somme des emissions : 3008236.75
+		nombre de vehicules etudies : 14126
+
+
+	2017
+		TOYOT
+		emissions moyennes : 188.716561099311	pour
+		somme des emissions : 7308048.8285708185
+		nombre de vehicules etudies : 38725
+
+
+	2017
+		VOLKS
+		emissions moyennes : 203.74719725728295	pour
+		somme des emissions : 3649927.291666967
+		nombre de vehicules etudies : 17914
+
+
+	2017
+		VOLVO
+		emissions moyennes : 181.75923969587708	pour
+		somme des emissions : 216293.49523809372
+		nombre de vehicules etudies : 1190
+
+
+	2017
+		ALFA
+		emissions moyennes : 212.77272727272728	pour
+		somme des emissions : 28086.0
+		nombre de vehicules etudies : 132
+
+
+	2017
+		GENES
+		emissions moyennes : 292.1458333333333	pour
+		somme des emissions : 14023.0
+		nombre de vehicules etudies : 48
+
+
+	2017
+		ROLLS
+		emissions moyennes : 386.84090909090907	pour
+		somme des emissions : 4255.25
+		nombre de vehicules etudies : 11
+
+
+	2017
+		SMART
+		emissions moyennes : 152.0	pour
+		somme des emissions : 10336.0
+		nombre de vehicules etudies : 68
+
+
+	2017
+		ASTON
+		emissions moyennes : 326.5	pour
+		somme des emissions : 653.0
+		nombre de vehicules etudies : 2
+
+
+	2017
+		BENTL
+		emissions moyennes : 346.36206896551727	pour
+		somme des emissions : 10044.5
+		nombre de vehicules etudies : 29
+
+
+	2017
+		LAMBO
+		emissions moyennes : 363.375	pour
+		somme des emissions : 1453.5
+		nombre de vehicules etudies : 4
+
+
+
+
+
+	2018
+	emissions moyennes : 207.78529420461172	pour
+	somme des emissions : 67682942.8077392
+	nombre de vehicules etudies : 325735
+
+	2018
+		ACURA
+		emissions moyennes : 236.24701937406854	pour
+		somme des emissions : 634087.0
+		nombre de vehicules etudies : 2684
+
+
+	2018
+		ALFA
+		emissions moyennes : 227.4942084942085	pour
+		somme des emissions : 58921.0
+		nombre de vehicules etudies : 259
+
+
+	2018
+		AUDI
+		emissions moyennes : 205.1255831416139	pour
+		somme des emissions : 2139870.0833333163
+		nombre de vehicules etudies : 10432
+
+
+	2018
+		BMW
+		emissions moyennes : 204.15295213261257	pour
+		somme des emissions : 1096097.199999997
+		nombre de vehicules etudies : 5369
+
+
+	2018
+		BUICK
+		emissions moyennes : 204.15639895138227	pour
+		somme des emissions : 856640.25
+		nombre de vehicules etudies : 4196
+
+
+	2018
+		CADIL
+		emissions moyennes : 250.7956945572705	pour
+		somme des emissions : 308729.5
+		nombre de vehicules etudies : 1231
+
+
+	2018
+		CHEVR
+		emissions moyennes : 204.27991616441258	pour
+		somme des emissions : 4406317.791666379
+		nombre de vehicules etudies : 21570
+
+
+	2018
+		CHRYS
+		emissions moyennes : 61.1578947368421	pour
+		somme des emissions : 23240.0
+		nombre de vehicules etudies : 380
+
+
+	2018
+		DODGE
+		emissions moyennes : 280.023178529362	pour
+		somme des emissions : 554725.916666666
+		nombre de vehicules etudies : 1981
+
+
+	2018
+		FORD
+		emissions moyennes : 255.05409491425965	pour
+		somme des emissions : 6019276.639976528
+		nombre de vehicules etudies : 23600
+
+
+	2018
+		GMC
+		emissions moyennes : 284.157116770309	pour
+		somme des emissions : 2878795.7500000005
+		nombre de vehicules etudies : 10131
+
+
+	2018
+		HONDA
+		emissions moyennes : 183.5273076497966	pour
+		somme des emissions : 7198124.533332672
+		nombre de vehicules etudies : 39221
+
+
+	2018
+		HYUND
+		emissions moyennes : 202.08747918284504	pour
+		somme des emissions : 5984820.695999956
+		nombre de vehicules etudies : 29615
+
+
+	2018
+		INFIN
+		emissions moyennes : 253.67993079584775	pour
+		somme des emissions : 293254.0
+		nombre de vehicules etudies : 1156
+
+
+	2018
+		JAGUA
+		emissions moyennes : 233.50562248995988	pour
+		somme des emissions : 116285.80000000002
+		nombre de vehicules etudies : 498
+
+
+	2018
+		JEEP
+		emissions moyennes : 263.89228410576135	pour
+		somme des emissions : 1874954.6785714342
+		nombre de vehicules etudies : 7105
+
+
+	2018
+		KIA
+		emissions moyennes : 211.54796803279405	pour
+		somme des emissions : 4919124.90066656
+		nombre de vehicules etudies : 23253
+
+
+	2018
+		LANDR
+		emissions moyennes : 257.9353499406878	pour
+		somme des emissions : 144959.66666666654
+		nombre de vehicules etudies : 562
+
+
+	2018
+		LEXUS
+		emissions moyennes : 240.62489959839357	pour
+		somme des emissions : 299578.0
+		nombre de vehicules etudies : 1245
+
+
+	2018
+		LINCO
+		emissions moyennes : 264.28143360752057	pour
+		somme des emissions : 224903.5
+		nombre de vehicules etudies : 851
+
+
+	2018
+		MAZDA
+		emissions moyennes : 191.4395821336518	pour
+		somme des emissions : 4321748.56666719
+		nombre de vehicules etudies : 22575
+
+
+	2018
+		MERCE
+		emissions moyennes : 157.17146311238025	pour
+		somme des emissions : 686367.7794117646
+		nombre de vehicules etudies : 4367
+
+
+	2018
+		MINI
+		emissions moyennes : 69.5	pour
+		somme des emissions : 67276.0
+		nombre de vehicules etudies : 968
+
+
+	2018
+		MITSU
+		emissions moyennes : 132.58873297565003	pour
+		somme des emissions : 963787.5
+		nombre de vehicules etudies : 7269
+
+
+	2018
+		NISSA
+		emissions moyennes : 199.90252515782268	pour
+		somme des emissions : 5330400.833333341
+		nombre de vehicules etudies : 26665
+
+
+	2018
+		PORSC
+		emissions moyennes : 250.69919423240026	pour
+		somme des emissions : 295574.3499999999
+		nombre de vehicules etudies : 1179
+
+
+	2018
+		RAM
+		emissions moyennes : 323.3092938733126	pour
+		somme des emissions : 1556734.25
+		nombre de vehicules etudies : 4815
+
+
+	2018
+		SUBAR
+		emissions moyennes : 209.54328689043692	pour
+		somme des emissions : 3308688.499999999
+		nombre de vehicules etudies : 15790
+
+
+	2018
+		TOYOT
+		emissions moyennes : 186.8603755137464	pour
+		somme des emissions : 7385282.621429799
+		nombre de vehicules etudies : 39523
+
+
+	2018
+		VOLKS
+		emissions moyennes : 225.5227461769787	pour
+		somme des emissions : 3524695.0
+		nombre de vehicules etudies : 15629
+
+
+	2018
+		VOLVO
+		emissions moyennes : 108.30655172413793	pour
+		somme des emissions : 157044.5
+		nombre de vehicules etudies : 1450
+
+
+	2018
+		GENES
+		emissions moyennes : 281.8333333333333	pour
+		somme des emissions : 15219.0
+		nombre de vehicules etudies : 54
+
+
+	2018
+		MASER
+		emissions moyennes : 329.0875	pour
+		somme des emissions : 26327.0
+		nombre de vehicules etudies : 80
+
+
+	2018
+		BENTL
+		emissions moyennes : 373.47058823529414	pour
+		somme des emissions : 6349.0
+		nombre de vehicules etudies : 17
+
+
+	2018
+		ROLLS
+		emissions moyennes : 391.0	pour
+		somme des emissions : 1173.0
+		nombre de vehicules etudies : 3
+
+
+	2018
+		FIAT
+		emissions moyennes : 205.5	pour
+		somme des emissions : 822.0
+		nombre de vehicules etudies : 4
+
+
+	2018
+		ASTON
+		emissions moyennes : 305.0	pour
+		somme des emissions : 915.0
+		nombre de vehicules etudies : 3
+
+
+	2018
+		LAMBO
+		emissions moyennes : 366.2	pour
+		somme des emissions : 1831.0
+		nombre de vehicules etudies : 5
+
+
+
+
+
+	2019
+	emissions moyennes : 201.6895056541698	pour
+	somme des emissions : 8044184.243510908
+	nombre de vehicules etudies : 39884
+
+	2019
+		ACURA
+		emissions moyennes : 236.08256880733944	pour
+		somme des emissions : 283063.0
+		nombre de vehicules etudies : 1199
+
+
+	2019
+		BMW
+		emissions moyennes : 234.85163776493258	pour
+		somme des emissions : 81258.66666666667
+		nombre de vehicules etudies : 346
+
+
+	2019
+		CHEVR
+		emissions moyennes : 169.9440430314706	pour
+		somme des emissions : 352803.83333333296
+		nombre de vehicules etudies : 2076
+
+
+	2019
+		CHRYS
+		emissions moyennes : 55.16216216216216	pour
+		somme des emissions : 2041.0
+		nombre de vehicules etudies : 37
+
+
+	2019
+		DODGE
+		emissions moyennes : 278.1800486618005	pour
+		somme des emissions : 38110.66666666667
+		nombre de vehicules etudies : 137
+
+
+	2019
+		FORD
+		emissions moyennes : 260.6240464344939	pour
+		somme des emissions : 104770.86666666654
+		nombre de vehicules etudies : 402
+
+
+	2019
+		GENES
+		emissions moyennes : 260.8837209302326	pour
+		somme des emissions : 33654.0
+		nombre de vehicules etudies : 129
+
+
+	2019
+		GMC
+		emissions moyennes : 268.52158806106195	pour
+		somme des emissions : 357133.7121212124
+		nombre de vehicules etudies : 1330
+
+
+	2019
+		HONDA
+		emissions moyennes : 214.567893980938	pour
+		somme des emissions : 547791.8333333348
+		nombre de vehicules etudies : 2553
+
+
+	2019
+		HYUND
+		emissions moyennes : 186.47463352337556	pour
+		somme des emissions : 817691.2680000018
+		nombre de vehicules etudies : 4385
+
+
+	2019
+		INFIN
+		emissions moyennes : 219.2281746031746	pour
+		somme des emissions : 110491.0
+		nombre de vehicules etudies : 504
+
+
+	2019
+		JEEP
+		emissions moyennes : 251.94122160834868	pour
+		somme des emissions : 410412.25
+		nombre de vehicules etudies : 1629
+
+
+	2019
+		KIA
+		emissions moyennes : 231.77097806069307	pour
+		somme des emissions : 964862.5816666653
+		nombre de vehicules etudies : 4163
+
+
+	2019
+		LEXUS
+		emissions moyennes : 207.43994413407822	pour
+		somme des emissions : 37131.75
+		nombre de vehicules etudies : 179
+
+
+	2019
+		LINCO
+		emissions moyennes : 258.3494764397906	pour
+		somme des emissions : 49344.75
+		nombre de vehicules etudies : 191
+
+
+	2019
+		MAZDA
+		emissions moyennes : 187.11206762318352	pour
+		somme des emissions : 560774.866666681
+		nombre de vehicules etudies : 2997
+
+
+	2019
+		MERCE
+		emissions moyennes : 148.91878916515057	pour
+		somme des emissions : 86670.73529411764
+		nombre de vehicules etudies : 582
+
+
+	2019
+		MINI
+		emissions moyennes : 69.5	pour
+		somme des emissions : 53793.0
+		nombre de vehicules etudies : 774
+
+
+	2019
+		MITSU
+		emissions moyennes : 199.73863636363637	pour
+		somme des emissions : 43942.5
+		nombre de vehicules etudies : 220
+
+
+	2019
+		NISSA
+		emissions moyennes : 200.89981368563687	pour
+		somme des emissions : 98842.70833333334
+		nombre de vehicules etudies : 492
+
+
+	2019
+		PORSC
+		emissions moyennes : 135.38888888888886	pour
+		somme des emissions : 16246.666666666664
+		nombre de vehicules etudies : 120
+
+
+	2019
+		RAM
+		emissions moyennes : 322.1173033315893	pour
+		somme des emissions : 263814.07142857165
+		nombre de vehicules etudies : 819
+
+
+	2019
+		SUBAR
+		emissions moyennes : 209.94866316020162	pour
+		somme des emissions : 957995.75
+		nombre de vehicules etudies : 4563
+
+
+	2019
+		TOYOT
+		emissions moyennes : 181.28797454702294	pour
+		somme des emissions : 840451.0499999984
+		nombre de vehicules etudies : 4636
+
+
+	2019
+		VOLKS
+		emissions moyennes : 163.9747341538977	pour
+		somme des emissions : 652783.4166666667
+		nombre de vehicules etudies : 3981
+
+
+	2019
+		VOLVO
+		emissions moyennes : 137.39612842304058	pour
+		somme des emissions : 97001.66666666664
+		nombre de vehicules etudies : 706
+
+
+	2019
+		BUICK
+		emissions moyennes : 220.24919093851133	pour
+		somme des emissions : 68057.0
+		nombre de vehicules etudies : 309
+
+
+	2019
+		CADIL
+		emissions moyennes : 251.04583333333335	pour
+		somme des emissions : 40167.333333333336
+		nombre de vehicules etudies : 160
+
+
+	2019
+		LANDR
+		emissions moyennes : 282.4952380952384	pour
+		somme des emissions : 41526.80000000005
+		nombre de vehicules etudies : 147
+
+
+	2019
+		JAGUA
+		emissions moyennes : 251.66304347826087	pour
+		somme des emissions : 11576.5
+		nombre de vehicules etudies : 46
+
+
+	2019
+		AUDI
+		emissions moyennes : 262.3448275862069	pour
+		somme des emissions : 15216.0
+		nombre de vehicules etudies : 58
+
+
+	2019
+		ASTON
+		emissions moyennes : 271.0	pour
+		somme des emissions : 813.0
+		nombre de vehicules etudies : 3
+
+
+	2019
+		LAMBO
+		emissions moyennes : 384.0	pour
+		somme des emissions : 2304.0
+		nombre de vehicules etudies : 6
+
+
+	2019
+		ALFA
+		emissions moyennes : 292.0	pour
+		somme des emissions : 292.0
+		nombre de vehicules etudies : 1
+
+
+	2019
+		MASER
+		emissions moyennes : 327.0	pour
+		somme des emissions : 327.0
+		nombre de vehicules etudies : 1
+
+
+	2019
+		BENTL
+		emissions moyennes : 315.0	pour
+		somme des emissions : 630.0
+		nombre de vehicules etudies : 2
+
+
+	2019
+		ROLLS
+		emissions moyennes : 397.0	pour
+		somme des emissions : 397.0
+		nombre de vehicules etudies : 1
+
+
+
