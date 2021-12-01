@@ -1,0 +1,46 @@
+import des bases...
+importé
+
+filtrage ADs dans base vehicules...
+fin
+
+on part de 5.524140643075076 et on veut 2.3125 (diminution de 58.13828522090776%)
+
+groupe 1, 807 veh a changer, emissions actuelles = 5.524140643075076 Mtonnes
+groupe 1, 807 veh a changer, emissions actuelles = 5.510081824464849 Mtonnes
+groupe 2, 12974 veh a changer, emissions actuelles = 5.510081824464849 Mtonnes
+groupe 2, 12974 veh a changer, emissions actuelles = 4.706195322162541 Mtonnes
+groupe 3, 13696 veh a changer, emissions actuelles = 4.706195322162541 Mtonnes
+groupe 3, 13696 veh a changer, emissions actuelles = 3.663525305019595 Mtonnes
+groupe 4, 9081 veh a changer, emissions actuelles = 3.663525305019595 Mtonnes
+groupe 4, 9081 veh a changer, emissions actuelles = 2.9065170409532657 Mtonnes
+groupe 5, 8646 veh a changer, emissions actuelles = 2.9065170409532657 Mtonnes
+groupe 5, 4323 veh a changer, emissions actuelles = 2.9065170409532657 Mtonnes
+groupe 5, 2161 veh a changer, emissions actuelles = 2.9065170409532657 Mtonnes
+groupe 5, 2161 veh a changer, emissions actuelles = 2.3953815480136793 Mtonnes
+groupe 5, 1080 veh a changer, emissions actuelles = 2.3953815480136793 Mtonnes
+groupe 5, 540 veh a changer, emissions actuelles = 2.3953815480136793 Mtonnes
+groupe 5, 270 veh a changer, emissions actuelles = 2.3953815480136793 Mtonnes
+groupe 5, 270 veh a changer, emissions actuelles = 2.3494610368665367 Mtonnes
+groupe 5, 135 veh a changer, emissions actuelles = 2.3494610368665367 Mtonnes
+groupe 5, 135 veh a changer, emissions actuelles = 2.328284882719256 Mtonnes
+groupe 5, 67 veh a changer, emissions actuelles = 2.328284882719256 Mtonnes
+groupe 5, 67 veh a changer, emissions actuelles = 2.318225934287271 Mtonnes
+groupe 5, 33 veh a changer, emissions actuelles = 2.318225934287271 Mtonnes
+groupe 5, 33 veh a changer, emissions actuelles = 2.313340429513055 Mtonnes
+groupe 5, 16 veh a changer, emissions actuelles = 2.313340429513055 Mtonnes
+groupe 5, 8 veh a changer, emissions actuelles = 2.313340429513055 Mtonnes
+groupe 5, 4 veh a changer, emissions actuelles = 2.313340429513055 Mtonnes
+groupe 5, 4 veh a changer, emissions actuelles = 2.312748247116178 Mtonnes
+groupe 5, 2 veh a changer, emissions actuelles = 2.312748247116178 Mtonnes
+groupe 5, 1 veh a changer, emissions actuelles = 2.312748247116178 Mtonnes
+groupe 5, 1 veh a changer, emissions actuelles = 2.312600201516961 Mtonnes
+groupe 5, 0 veh a changer, emissions actuelles = 2.312600201516961 Mtonnes
+
+
+fin des calculs, nouvelle émission : 2.312496953316821 Mtonnes, contre 5.524140643075076 au départ, diminution de 58.13834037307306 % (58.13828522090776% voulu)
+
+
+matrice enregistrée comme naif_inverse_2018_elec_nn_nul.pkl
+
+1611820.0 veh changes contre 2348389 au depart, 68.6351366830623 % de vehicules changes

@@ -1,0 +1,18 @@
+import des bases...
+importé
+
+filtrage ADs dans base vehicules...
+fin
+
+emissions totales : 6.0903650589902725 Mtonnes de CO2
+
+on part de 6.0903650589902725 et on veut 2.3125 (diminution de 62.03019067656034%)
+
+
+
+fin des calculs, nouvelle émission : 2.3124988332047707 Mtonnes, contre 6.0903650589902725 au départ, diminution de 62.03020983461109 % (62.03019067656034% voulu)
+
+
+matrice enregistrée comme aleat_2030_elec_nn_nul.pkl
+
+1652439.0 veh changes contre 2589098.8725 au depart, 63.8229392299888 % de vehicules changes

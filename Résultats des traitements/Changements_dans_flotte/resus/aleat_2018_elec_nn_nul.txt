@@ -1,0 +1,16 @@
+import des bases...
+importé
+
+filtrage ADs dans base vehicules...
+fin
+
+on part de 5.524140643075076 et on veut 2.3125 (diminution de 58.13828522090776%)
+
+
+
+fin des calculs, nouvelle émission : 2.312498539910706 Mtonnes, contre 5.524140643075076 au départ, diminution de 58.138311651974384 % (58.13828522090776% voulu)
+
+
+matrice enregistrée comme aleat_2018_elec_nn_nul.pkl
+
+1405297.0 veh changes contre 2348389 au depart, 59.8408951838899 % de vehicules changes
